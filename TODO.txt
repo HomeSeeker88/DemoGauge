@@ -1,0 +1,7 @@
+TODO:
+
+- Piramida wieku
+- KPI (dzietność, urodzenia/śmierć ratio, średnia wieku, średnia dł. życia)
+- interaktywna mapa (do przeliczania statystyk dla pojedynczego województwa, landu, obwodu itp.)
+- Dane dot. imigracji, wieku, pochodzenia
+- Model (?), dotyczący jesio nie wiem czego
