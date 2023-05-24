@@ -1,0 +1,1821 @@
+Regions Code,Regions Label,Sex (2 categories) Code,Sex (2 categories) Label,Age (91 categories) Code,Age (91 categories) Label,Count
+E12000001,North East,1,Female,0,Aged under 1 year,11975
+E12000001,North East,1,Female,1,Aged 1 year,12750
+E12000001,North East,1,Female,2,Aged 2 years,13084
+E12000001,North East,1,Female,3,Aged 3 years,13516
+E12000001,North East,1,Female,4,Aged 4 years,14206
+E12000001,North East,1,Female,5,Aged 5 years,14199
+E12000001,North East,1,Female,6,Aged 6 years,14105
+E12000001,North East,1,Female,7,Aged 7 years,14391
+E12000001,North East,1,Female,8,Aged 8 years,14996
+E12000001,North East,1,Female,9,Aged 9 years,15311
+E12000001,North East,1,Female,10,Aged 10 years,15301
+E12000001,North East,1,Female,11,Aged 11 years,15145
+E12000001,North East,1,Female,12,Aged 12 years,15024
+E12000001,North East,1,Female,13,Aged 13 years,15094
+E12000001,North East,1,Female,14,Aged 14 years,14708
+E12000001,North East,1,Female,15,Aged 15 years,14118
+E12000001,North East,1,Female,16,Aged 16 years,14203
+E12000001,North East,1,Female,17,Aged 17 years,13898
+E12000001,North East,1,Female,18,Aged 18 years,14750
+E12000001,North East,1,Female,19,Aged 19 years,16607
+E12000001,North East,1,Female,20,Aged 20 years,16495
+E12000001,North East,1,Female,21,Aged 21 years,16319
+E12000001,North East,1,Female,22,Aged 22 years,15986
+E12000001,North East,1,Female,23,Aged 23 years,15635
+E12000001,North East,1,Female,24,Aged 24 years,16110
+E12000001,North East,1,Female,25,Aged 25 years,15515
+E12000001,North East,1,Female,26,Aged 26 years,15979
+E12000001,North East,1,Female,27,Aged 27 years,16355
+E12000001,North East,1,Female,28,Aged 28 years,16554
+E12000001,North East,1,Female,29,Aged 29 years,17438
+E12000001,North East,1,Female,30,Aged 30 years,17474
+E12000001,North East,1,Female,31,Aged 31 years,16915
+E12000001,North East,1,Female,32,Aged 32 years,17245
+E12000001,North East,1,Female,33,Aged 33 years,17840
+E12000001,North East,1,Female,34,Aged 34 years,17567
+E12000001,North East,1,Female,35,Aged 35 years,17292
+E12000001,North East,1,Female,36,Aged 36 years,17213
+E12000001,North East,1,Female,37,Aged 37 years,16491
+E12000001,North East,1,Female,38,Aged 38 years,16533
+E12000001,North East,1,Female,39,Aged 39 years,16509
+E12000001,North East,1,Female,40,Aged 40 years,17024
+E12000001,North East,1,Female,41,Aged 41 years,16821
+E12000001,North East,1,Female,42,Aged 42 years,15631
+E12000001,North East,1,Female,43,Aged 43 years,14106
+E12000001,North East,1,Female,44,Aged 44 years,14260
+E12000001,North East,1,Female,45,Aged 45 years,15092
+E12000001,North East,1,Female,46,Aged 46 years,15191
+E12000001,North East,1,Female,47,Aged 47 years,15849
+E12000001,North East,1,Female,48,Aged 48 years,16757
+E12000001,North East,1,Female,49,Aged 49 years,18347
+E12000001,North East,1,Female,50,Aged 50 years,18655
+E12000001,North East,1,Female,51,Aged 51 years,18092
+E12000001,North East,1,Female,52,Aged 52 years,18760
+E12000001,North East,1,Female,53,Aged 53 years,18845
+E12000001,North East,1,Female,54,Aged 54 years,19445
+E12000001,North East,1,Female,55,Aged 55 years,19642
+E12000001,North East,1,Female,56,Aged 56 years,19782
+E12000001,North East,1,Female,57,Aged 57 years,19934
+E12000001,North East,1,Female,58,Aged 58 years,19539
+E12000001,North East,1,Female,59,Aged 59 years,19391
+E12000001,North East,1,Female,60,Aged 60 years,18530
+E12000001,North East,1,Female,61,Aged 61 years,18072
+E12000001,North East,1,Female,62,Aged 62 years,18321
+E12000001,North East,1,Female,63,Aged 63 years,17791
+E12000001,North East,1,Female,64,Aged 64 years,16885
+E12000001,North East,1,Female,65,Aged 65 years,16279
+E12000001,North East,1,Female,66,Aged 66 years,15590
+E12000001,North East,1,Female,67,Aged 67 years,15586
+E12000001,North East,1,Female,68,Aged 68 years,15265
+E12000001,North East,1,Female,69,Aged 69 years,14757
+E12000001,North East,1,Female,70,Aged 70 years,14799
+E12000001,North East,1,Female,71,Aged 71 years,15091
+E12000001,North East,1,Female,72,Aged 72 years,15130
+E12000001,North East,1,Female,73,Aged 73 years,16290
+E12000001,North East,1,Female,74,Aged 74 years,15975
+E12000001,North East,1,Female,75,Aged 75 years,11823
+E12000001,North East,1,Female,76,Aged 76 years,12381
+E12000001,North East,1,Female,77,Aged 77 years,10797
+E12000001,North East,1,Female,78,Aged 78 years,10013
+E12000001,North East,1,Female,79,Aged 79 years,8934
+E12000001,North East,1,Female,80,Aged 80 years,8841
+E12000001,North East,1,Female,81,Aged 81 years,8736
+E12000001,North East,1,Female,82,Aged 82 years,8538
+E12000001,North East,1,Female,83,Aged 83 years,8145
+E12000001,North East,1,Female,84,Aged 84 years,7360
+E12000001,North East,1,Female,85,Aged 85 years,6598
+E12000001,North East,1,Female,86,Aged 86 years,5891
+E12000001,North East,1,Female,87,Aged 87 years,5122
+E12000001,North East,1,Female,88,Aged 88 years,4647
+E12000001,North East,1,Female,89,Aged 89 years,4063
+E12000001,North East,1,Female,90,Aged 90 years and over,15359
+E12000001,North East,2,Male,0,Aged under 1 year,12799
+E12000001,North East,2,Male,1,Aged 1 year,13092
+E12000001,North East,2,Male,2,Aged 2 years,13859
+E12000001,North East,2,Male,3,Aged 3 years,14220
+E12000001,North East,2,Male,4,Aged 4 years,14804
+E12000001,North East,2,Male,5,Aged 5 years,15236
+E12000001,North East,2,Male,6,Aged 6 years,14791
+E12000001,North East,2,Male,7,Aged 7 years,15428
+E12000001,North East,2,Male,8,Aged 8 years,16004
+E12000001,North East,2,Male,9,Aged 9 years,16012
+E12000001,North East,2,Male,10,Aged 10 years,16406
+E12000001,North East,2,Male,11,Aged 11 years,15998
+E12000001,North East,2,Male,12,Aged 12 years,15641
+E12000001,North East,2,Male,13,Aged 13 years,15711
+E12000001,North East,2,Male,14,Aged 14 years,15363
+E12000001,North East,2,Male,15,Aged 15 years,14767
+E12000001,North East,2,Male,16,Aged 16 years,14737
+E12000001,North East,2,Male,17,Aged 17 years,14413
+E12000001,North East,2,Male,18,Aged 18 years,15378
+E12000001,North East,2,Male,19,Aged 19 years,17238
+E12000001,North East,2,Male,20,Aged 20 years,16932
+E12000001,North East,2,Male,21,Aged 21 years,17162
+E12000001,North East,2,Male,22,Aged 22 years,16511
+E12000001,North East,2,Male,23,Aged 23 years,16011
+E12000001,North East,2,Male,24,Aged 24 years,15765
+E12000001,North East,2,Male,25,Aged 25 years,15544
+E12000001,North East,2,Male,26,Aged 26 years,15476
+E12000001,North East,2,Male,27,Aged 27 years,15639
+E12000001,North East,2,Male,28,Aged 28 years,16017
+E12000001,North East,2,Male,29,Aged 29 years,16215
+E12000001,North East,2,Male,30,Aged 30 years,16536
+E12000001,North East,2,Male,31,Aged 31 years,15933
+E12000001,North East,2,Male,32,Aged 32 years,15988
+E12000001,North East,2,Male,33,Aged 33 years,16356
+E12000001,North East,2,Male,34,Aged 34 years,16121
+E12000001,North East,2,Male,35,Aged 35 years,16599
+E12000001,North East,2,Male,36,Aged 36 years,15885
+E12000001,North East,2,Male,37,Aged 37 years,15773
+E12000001,North East,2,Male,38,Aged 38 years,15603
+E12000001,North East,2,Male,39,Aged 39 years,15502
+E12000001,North East,2,Male,40,Aged 40 years,15815
+E12000001,North East,2,Male,41,Aged 41 years,16029
+E12000001,North East,2,Male,42,Aged 42 years,15260
+E12000001,North East,2,Male,43,Aged 43 years,13834
+E12000001,North East,2,Male,44,Aged 44 years,13387
+E12000001,North East,2,Male,45,Aged 45 years,14336
+E12000001,North East,2,Male,46,Aged 46 years,14722
+E12000001,North East,2,Male,47,Aged 47 years,15075
+E12000001,North East,2,Male,48,Aged 48 years,16207
+E12000001,North East,2,Male,49,Aged 49 years,17441
+E12000001,North East,2,Male,50,Aged 50 years,17902
+E12000001,North East,2,Male,51,Aged 51 years,17216
+E12000001,North East,2,Male,52,Aged 52 years,17754
+E12000001,North East,2,Male,53,Aged 53 years,18064
+E12000001,North East,2,Male,54,Aged 54 years,18651
+E12000001,North East,2,Male,55,Aged 55 years,18771
+E12000001,North East,2,Male,56,Aged 56 years,19289
+E12000001,North East,2,Male,57,Aged 57 years,18819
+E12000001,North East,2,Male,58,Aged 58 years,18670
+E12000001,North East,2,Male,59,Aged 59 years,18501
+E12000001,North East,2,Male,60,Aged 60 years,17790
+E12000001,North East,2,Male,61,Aged 61 years,17227
+E12000001,North East,2,Male,62,Aged 62 years,17232
+E12000001,North East,2,Male,63,Aged 63 years,16987
+E12000001,North East,2,Male,64,Aged 64 years,16402
+E12000001,North East,2,Male,65,Aged 65 years,15538
+E12000001,North East,2,Male,66,Aged 66 years,15088
+E12000001,North East,2,Male,67,Aged 67 years,15095
+E12000001,North East,2,Male,68,Aged 68 years,14365
+E12000001,North East,2,Male,69,Aged 69 years,14086
+E12000001,North East,2,Male,70,Aged 70 years,13597
+E12000001,North East,2,Male,71,Aged 71 years,13899
+E12000001,North East,2,Male,72,Aged 72 years,14073
+E12000001,North East,2,Male,73,Aged 73 years,14985
+E12000001,North East,2,Male,74,Aged 74 years,14527
+E12000001,North East,2,Male,75,Aged 75 years,10757
+E12000001,North East,2,Male,76,Aged 76 years,11063
+E12000001,North East,2,Male,77,Aged 77 years,9540
+E12000001,North East,2,Male,78,Aged 78 years,8465
+E12000001,North East,2,Male,79,Aged 79 years,7489
+E12000001,North East,2,Male,80,Aged 80 years,7056
+E12000001,North East,2,Male,81,Aged 81 years,6855
+E12000001,North East,2,Male,82,Aged 82 years,6648
+E12000001,North East,2,Male,83,Aged 83 years,5870
+E12000001,North East,2,Male,84,Aged 84 years,5326
+E12000001,North East,2,Male,85,Aged 85 years,4515
+E12000001,North East,2,Male,86,Aged 86 years,3924
+E12000001,North East,2,Male,87,Aged 87 years,3378
+E12000001,North East,2,Male,88,Aged 88 years,2850
+E12000001,North East,2,Male,89,Aged 89 years,2413
+E12000001,North East,2,Male,90,Aged 90 years and over,7148
+E12000002,North West,1,Female,0,Aged under 1 year,37534
+E12000002,North West,1,Female,1,Aged 1 year,39300
+E12000002,North West,1,Female,2,Aged 2 years,40177
+E12000002,North West,1,Female,3,Aged 3 years,40387
+E12000002,North West,1,Female,4,Aged 4 years,41630
+E12000002,North West,1,Female,5,Aged 5 years,42565
+E12000002,North West,1,Female,6,Aged 6 years,42448
+E12000002,North West,1,Female,7,Aged 7 years,43139
+E12000002,North West,1,Female,8,Aged 8 years,44204
+E12000002,North West,1,Female,9,Aged 9 years,44997
+E12000002,North West,1,Female,10,Aged 10 years,44791
+E12000002,North West,1,Female,11,Aged 11 years,44307
+E12000002,North West,1,Female,12,Aged 12 years,44202
+E12000002,North West,1,Female,13,Aged 13 years,43998
+E12000002,North West,1,Female,14,Aged 14 years,42791
+E12000002,North West,1,Female,15,Aged 15 years,41969
+E12000002,North West,1,Female,16,Aged 16 years,42032
+E12000002,North West,1,Female,17,Aged 17 years,41337
+E12000002,North West,1,Female,18,Aged 18 years,41242
+E12000002,North West,1,Female,19,Aged 19 years,44517
+E12000002,North West,1,Female,20,Aged 20 years,44048
+E12000002,North West,1,Female,21,Aged 21 years,44909
+E12000002,North West,1,Female,22,Aged 22 years,45810
+E12000002,North West,1,Female,23,Aged 23 years,45492
+E12000002,North West,1,Female,24,Aged 24 years,47242
+E12000002,North West,1,Female,25,Aged 25 years,46146
+E12000002,North West,1,Female,26,Aged 26 years,47157
+E12000002,North West,1,Female,27,Aged 27 years,48719
+E12000002,North West,1,Female,28,Aged 28 years,49761
+E12000002,North West,1,Female,29,Aged 29 years,51274
+E12000002,North West,1,Female,30,Aged 30 years,52928
+E12000002,North West,1,Female,31,Aged 31 years,51844
+E12000002,North West,1,Female,32,Aged 32 years,51909
+E12000002,North West,1,Female,33,Aged 33 years,53018
+E12000002,North West,1,Female,34,Aged 34 years,51164
+E12000002,North West,1,Female,35,Aged 35 years,51592
+E12000002,North West,1,Female,36,Aged 36 years,50578
+E12000002,North West,1,Female,37,Aged 37 years,49358
+E12000002,North West,1,Female,38,Aged 38 years,49102
+E12000002,North West,1,Female,39,Aged 39 years,48064
+E12000002,North West,1,Female,40,Aged 40 years,49022
+E12000002,North West,1,Female,41,Aged 41 years,47974
+E12000002,North West,1,Female,42,Aged 42 years,45045
+E12000002,North West,1,Female,43,Aged 43 years,42090
+E12000002,North West,1,Female,44,Aged 44 years,41918
+E12000002,North West,1,Female,45,Aged 45 years,43029
+E12000002,North West,1,Female,46,Aged 46 years,44077
+E12000002,North West,1,Female,47,Aged 47 years,45409
+E12000002,North West,1,Female,48,Aged 48 years,47942
+E12000002,North West,1,Female,49,Aged 49 years,50882
+E12000002,North West,1,Female,50,Aged 50 years,51897
+E12000002,North West,1,Female,51,Aged 51 years,50981
+E12000002,North West,1,Female,52,Aged 52 years,52184
+E12000002,North West,1,Female,53,Aged 53 years,51864
+E12000002,North West,1,Female,54,Aged 54 years,52301
+E12000002,North West,1,Female,55,Aged 55 years,52503
+E12000002,North West,1,Female,56,Aged 56 years,53472
+E12000002,North West,1,Female,57,Aged 57 years,51935
+E12000002,North West,1,Female,58,Aged 58 years,51398
+E12000002,North West,1,Female,59,Aged 59 years,50411
+E12000002,North West,1,Female,60,Aged 60 years,48049
+E12000002,North West,1,Female,61,Aged 61 years,46153
+E12000002,North West,1,Female,62,Aged 62 years,44508
+E12000002,North West,1,Female,63,Aged 63 years,43829
+E12000002,North West,1,Female,64,Aged 64 years,42108
+E12000002,North West,1,Female,65,Aged 65 years,39823
+E12000002,North West,1,Female,66,Aged 66 years,38613
+E12000002,North West,1,Female,67,Aged 67 years,38954
+E12000002,North West,1,Female,68,Aged 68 years,37558
+E12000002,North West,1,Female,69,Aged 69 years,36828
+E12000002,North West,1,Female,70,Aged 70 years,37634
+E12000002,North West,1,Female,71,Aged 71 years,37780
+E12000002,North West,1,Female,72,Aged 72 years,38593
+E12000002,North West,1,Female,73,Aged 73 years,42195
+E12000002,North West,1,Female,74,Aged 74 years,41102
+E12000002,North West,1,Female,75,Aged 75 years,30604
+E12000002,North West,1,Female,76,Aged 76 years,32019
+E12000002,North West,1,Female,77,Aged 77 years,29554
+E12000002,North West,1,Female,78,Aged 78 years,27752
+E12000002,North West,1,Female,79,Aged 79 years,24410
+E12000002,North West,1,Female,80,Aged 80 years,22942
+E12000002,North West,1,Female,81,Aged 81 years,23305
+E12000002,North West,1,Female,82,Aged 82 years,21793
+E12000002,North West,1,Female,83,Aged 83 years,20407
+E12000002,North West,1,Female,84,Aged 84 years,18737
+E12000002,North West,1,Female,85,Aged 85 years,16939
+E12000002,North West,1,Female,86,Aged 86 years,14963
+E12000002,North West,1,Female,87,Aged 87 years,13043
+E12000002,North West,1,Female,88,Aged 88 years,11595
+E12000002,North West,1,Female,89,Aged 89 years,10454
+E12000002,North West,1,Female,90,Aged 90 years and over,41001
+E12000002,North West,2,Male,0,Aged under 1 year,38946
+E12000002,North West,2,Male,1,Aged 1 year,41209
+E12000002,North West,2,Male,2,Aged 2 years,41860
+E12000002,North West,2,Male,3,Aged 3 years,42149
+E12000002,North West,2,Male,4,Aged 4 years,44461
+E12000002,North West,2,Male,5,Aged 5 years,44863
+E12000002,North West,2,Male,6,Aged 6 years,44192
+E12000002,North West,2,Male,7,Aged 7 years,44871
+E12000002,North West,2,Male,8,Aged 8 years,46877
+E12000002,North West,2,Male,9,Aged 9 years,46918
+E12000002,North West,2,Male,10,Aged 10 years,47100
+E12000002,North West,2,Male,11,Aged 11 years,47053
+E12000002,North West,2,Male,12,Aged 12 years,46655
+E12000002,North West,2,Male,13,Aged 13 years,46308
+E12000002,North West,2,Male,14,Aged 14 years,45204
+E12000002,North West,2,Male,15,Aged 15 years,44659
+E12000002,North West,2,Male,16,Aged 16 years,44862
+E12000002,North West,2,Male,17,Aged 17 years,43198
+E12000002,North West,2,Male,18,Aged 18 years,42916
+E12000002,North West,2,Male,19,Aged 19 years,44221
+E12000002,North West,2,Male,20,Aged 20 years,44620
+E12000002,North West,2,Male,21,Aged 21 years,44757
+E12000002,North West,2,Male,22,Aged 22 years,45496
+E12000002,North West,2,Male,23,Aged 23 years,45181
+E12000002,North West,2,Male,24,Aged 24 years,46143
+E12000002,North West,2,Male,25,Aged 25 years,44855
+E12000002,North West,2,Male,26,Aged 26 years,45755
+E12000002,North West,2,Male,27,Aged 27 years,46834
+E12000002,North West,2,Male,28,Aged 28 years,47228
+E12000002,North West,2,Male,29,Aged 29 years,49096
+E12000002,North West,2,Male,30,Aged 30 years,50567
+E12000002,North West,2,Male,31,Aged 31 years,48874
+E12000002,North West,2,Male,32,Aged 32 years,48805
+E12000002,North West,2,Male,33,Aged 33 years,49641
+E12000002,North West,2,Male,34,Aged 34 years,47189
+E12000002,North West,2,Male,35,Aged 35 years,48560
+E12000002,North West,2,Male,36,Aged 36 years,48646
+E12000002,North West,2,Male,37,Aged 37 years,46947
+E12000002,North West,2,Male,38,Aged 38 years,46500
+E12000002,North West,2,Male,39,Aged 39 years,46274
+E12000002,North West,2,Male,40,Aged 40 years,46647
+E12000002,North West,2,Male,41,Aged 41 years,46679
+E12000002,North West,2,Male,42,Aged 42 years,43218
+E12000002,North West,2,Male,43,Aged 43 years,40992
+E12000002,North West,2,Male,44,Aged 44 years,41223
+E12000002,North West,2,Male,45,Aged 45 years,42256
+E12000002,North West,2,Male,46,Aged 46 years,43595
+E12000002,North West,2,Male,47,Aged 47 years,44287
+E12000002,North West,2,Male,48,Aged 48 years,46745
+E12000002,North West,2,Male,49,Aged 49 years,50147
+E12000002,North West,2,Male,50,Aged 50 years,50798
+E12000002,North West,2,Male,51,Aged 51 years,49805
+E12000002,North West,2,Male,52,Aged 52 years,51409
+E12000002,North West,2,Male,53,Aged 53 years,50672
+E12000002,North West,2,Male,54,Aged 54 years,51610
+E12000002,North West,2,Male,55,Aged 55 years,50947
+E12000002,North West,2,Male,56,Aged 56 years,52105
+E12000002,North West,2,Male,57,Aged 57 years,50772
+E12000002,North West,2,Male,58,Aged 58 years,50454
+E12000002,North West,2,Male,59,Aged 59 years,48510
+E12000002,North West,2,Male,60,Aged 60 years,47438
+E12000002,North West,2,Male,61,Aged 61 years,44993
+E12000002,North West,2,Male,62,Aged 62 years,43632
+E12000002,North West,2,Male,63,Aged 63 years,42758
+E12000002,North West,2,Male,64,Aged 64 years,40255
+E12000002,North West,2,Male,65,Aged 65 years,38471
+E12000002,North West,2,Male,66,Aged 66 years,37099
+E12000002,North West,2,Male,67,Aged 67 years,37623
+E12000002,North West,2,Male,68,Aged 68 years,35981
+E12000002,North West,2,Male,69,Aged 69 years,35003
+E12000002,North West,2,Male,70,Aged 70 years,35087
+E12000002,North West,2,Male,71,Aged 71 years,35177
+E12000002,North West,2,Male,72,Aged 72 years,36094
+E12000002,North West,2,Male,73,Aged 73 years,38460
+E12000002,North West,2,Male,74,Aged 74 years,37408
+E12000002,North West,2,Male,75,Aged 75 years,27505
+E12000002,North West,2,Male,76,Aged 76 years,28159
+E12000002,North West,2,Male,77,Aged 77 years,25976
+E12000002,North West,2,Male,78,Aged 78 years,23846
+E12000002,North West,2,Male,79,Aged 79 years,19997
+E12000002,North West,2,Male,80,Aged 80 years,18617
+E12000002,North West,2,Male,81,Aged 81 years,18425
+E12000002,North West,2,Male,82,Aged 82 years,16962
+E12000002,North West,2,Male,83,Aged 83 years,15524
+E12000002,North West,2,Male,84,Aged 84 years,13479
+E12000002,North West,2,Male,85,Aged 85 years,11971
+E12000002,North West,2,Male,86,Aged 86 years,10213
+E12000002,North West,2,Male,87,Aged 87 years,8388
+E12000002,North West,2,Male,88,Aged 88 years,7410
+E12000002,North West,2,Male,89,Aged 89 years,6098
+E12000002,North West,2,Male,90,Aged 90 years and over,18750
+E12000003,Yorkshire and The Humber,1,Female,0,Aged under 1 year,27156
+E12000003,Yorkshire and The Humber,1,Female,1,Aged 1 year,28749
+E12000003,Yorkshire and The Humber,1,Female,2,Aged 2 years,29543
+E12000003,Yorkshire and The Humber,1,Female,3,Aged 3 years,29721
+E12000003,Yorkshire and The Humber,1,Female,4,Aged 4 years,30620
+E12000003,Yorkshire and The Humber,1,Female,5,Aged 5 years,31126
+E12000003,Yorkshire and The Humber,1,Female,6,Aged 6 years,31072
+E12000003,Yorkshire and The Humber,1,Female,7,Aged 7 years,31400
+E12000003,Yorkshire and The Humber,1,Female,8,Aged 8 years,32639
+E12000003,Yorkshire and The Humber,1,Female,9,Aged 9 years,33218
+E12000003,Yorkshire and The Humber,1,Female,10,Aged 10 years,32792
+E12000003,Yorkshire and The Humber,1,Female,11,Aged 11 years,32732
+E12000003,Yorkshire and The Humber,1,Female,12,Aged 12 years,32750
+E12000003,Yorkshire and The Humber,1,Female,13,Aged 13 years,32253
+E12000003,Yorkshire and The Humber,1,Female,14,Aged 14 years,31524
+E12000003,Yorkshire and The Humber,1,Female,15,Aged 15 years,30936
+E12000003,Yorkshire and The Humber,1,Female,16,Aged 16 years,30835
+E12000003,Yorkshire and The Humber,1,Female,17,Aged 17 years,30387
+E12000003,Yorkshire and The Humber,1,Female,18,Aged 18 years,31420
+E12000003,Yorkshire and The Humber,1,Female,19,Aged 19 years,33982
+E12000003,Yorkshire and The Humber,1,Female,20,Aged 20 years,34142
+E12000003,Yorkshire and The Humber,1,Female,21,Aged 21 years,35782
+E12000003,Yorkshire and The Humber,1,Female,22,Aged 22 years,35266
+E12000003,Yorkshire and The Humber,1,Female,23,Aged 23 years,34708
+E12000003,Yorkshire and The Humber,1,Female,24,Aged 24 years,34784
+E12000003,Yorkshire and The Humber,1,Female,25,Aged 25 years,34012
+E12000003,Yorkshire and The Humber,1,Female,26,Aged 26 years,34926
+E12000003,Yorkshire and The Humber,1,Female,27,Aged 27 years,35568
+E12000003,Yorkshire and The Humber,1,Female,28,Aged 28 years,36467
+E12000003,Yorkshire and The Humber,1,Female,29,Aged 29 years,37365
+E12000003,Yorkshire and The Humber,1,Female,30,Aged 30 years,38361
+E12000003,Yorkshire and The Humber,1,Female,31,Aged 31 years,37293
+E12000003,Yorkshire and The Humber,1,Female,32,Aged 32 years,37911
+E12000003,Yorkshire and The Humber,1,Female,33,Aged 33 years,38383
+E12000003,Yorkshire and The Humber,1,Female,34,Aged 34 years,37771
+E12000003,Yorkshire and The Humber,1,Female,35,Aged 35 years,36693
+E12000003,Yorkshire and The Humber,1,Female,36,Aged 36 years,36566
+E12000003,Yorkshire and The Humber,1,Female,37,Aged 37 years,35493
+E12000003,Yorkshire and The Humber,1,Female,38,Aged 38 years,34777
+E12000003,Yorkshire and The Humber,1,Female,39,Aged 39 years,35307
+E12000003,Yorkshire and The Humber,1,Female,40,Aged 40 years,35687
+E12000003,Yorkshire and The Humber,1,Female,41,Aged 41 years,34827
+E12000003,Yorkshire and The Humber,1,Female,42,Aged 42 years,32725
+E12000003,Yorkshire and The Humber,1,Female,43,Aged 43 years,30291
+E12000003,Yorkshire and The Humber,1,Female,44,Aged 44 years,30555
+E12000003,Yorkshire and The Humber,1,Female,45,Aged 45 years,31557
+E12000003,Yorkshire and The Humber,1,Female,46,Aged 46 years,32335
+E12000003,Yorkshire and The Humber,1,Female,47,Aged 47 years,33673
+E12000003,Yorkshire and The Humber,1,Female,48,Aged 48 years,35414
+E12000003,Yorkshire and The Humber,1,Female,49,Aged 49 years,37822
+E12000003,Yorkshire and The Humber,1,Female,50,Aged 50 years,38901
+E12000003,Yorkshire and The Humber,1,Female,51,Aged 51 years,38066
+E12000003,Yorkshire and The Humber,1,Female,52,Aged 52 years,38941
+E12000003,Yorkshire and The Humber,1,Female,53,Aged 53 years,38624
+E12000003,Yorkshire and The Humber,1,Female,54,Aged 54 years,38347
+E12000003,Yorkshire and The Humber,1,Female,55,Aged 55 years,38474
+E12000003,Yorkshire and The Humber,1,Female,56,Aged 56 years,38588
+E12000003,Yorkshire and The Humber,1,Female,57,Aged 57 years,38255
+E12000003,Yorkshire and The Humber,1,Female,58,Aged 58 years,37624
+E12000003,Yorkshire and The Humber,1,Female,59,Aged 59 years,36501
+E12000003,Yorkshire and The Humber,1,Female,60,Aged 60 years,35116
+E12000003,Yorkshire and The Humber,1,Female,61,Aged 61 years,33624
+E12000003,Yorkshire and The Humber,1,Female,62,Aged 62 years,33378
+E12000003,Yorkshire and The Humber,1,Female,63,Aged 63 years,32677
+E12000003,Yorkshire and The Humber,1,Female,64,Aged 64 years,31237
+E12000003,Yorkshire and The Humber,1,Female,65,Aged 65 years,29702
+E12000003,Yorkshire and The Humber,1,Female,66,Aged 66 years,28794
+E12000003,Yorkshire and The Humber,1,Female,67,Aged 67 years,29023
+E12000003,Yorkshire and The Humber,1,Female,68,Aged 68 years,27964
+E12000003,Yorkshire and The Humber,1,Female,69,Aged 69 years,27510
+E12000003,Yorkshire and The Humber,1,Female,70,Aged 70 years,27895
+E12000003,Yorkshire and The Humber,1,Female,71,Aged 71 years,28466
+E12000003,Yorkshire and The Humber,1,Female,72,Aged 72 years,28746
+E12000003,Yorkshire and The Humber,1,Female,73,Aged 73 years,31823
+E12000003,Yorkshire and The Humber,1,Female,74,Aged 74 years,31141
+E12000003,Yorkshire and The Humber,1,Female,75,Aged 75 years,23068
+E12000003,Yorkshire and The Humber,1,Female,76,Aged 76 years,24638
+E12000003,Yorkshire and The Humber,1,Female,77,Aged 77 years,21628
+E12000003,Yorkshire and The Humber,1,Female,78,Aged 78 years,20432
+E12000003,Yorkshire and The Humber,1,Female,79,Aged 79 years,17543
+E12000003,Yorkshire and The Humber,1,Female,80,Aged 80 years,16821
+E12000003,Yorkshire and The Humber,1,Female,81,Aged 81 years,17347
+E12000003,Yorkshire and The Humber,1,Female,82,Aged 82 years,16219
+E12000003,Yorkshire and The Humber,1,Female,83,Aged 83 years,15448
+E12000003,Yorkshire and The Humber,1,Female,84,Aged 84 years,14380
+E12000003,Yorkshire and The Humber,1,Female,85,Aged 85 years,12845
+E12000003,Yorkshire and The Humber,1,Female,86,Aged 86 years,11465
+E12000003,Yorkshire and The Humber,1,Female,87,Aged 87 years,10383
+E12000003,Yorkshire and The Humber,1,Female,88,Aged 88 years,9095
+E12000003,Yorkshire and The Humber,1,Female,89,Aged 89 years,7894
+E12000003,Yorkshire and The Humber,1,Female,90,Aged 90 years and over,31744
+E12000003,Yorkshire and The Humber,2,Male,0,Aged under 1 year,28784
+E12000003,Yorkshire and The Humber,2,Male,1,Aged 1 year,30036
+E12000003,Yorkshire and The Humber,2,Male,2,Aged 2 years,30639
+E12000003,Yorkshire and The Humber,2,Male,3,Aged 3 years,30841
+E12000003,Yorkshire and The Humber,2,Male,4,Aged 4 years,32468
+E12000003,Yorkshire and The Humber,2,Male,5,Aged 5 years,32835
+E12000003,Yorkshire and The Humber,2,Male,6,Aged 6 years,32316
+E12000003,Yorkshire and The Humber,2,Male,7,Aged 7 years,32771
+E12000003,Yorkshire and The Humber,2,Male,8,Aged 8 years,34340
+E12000003,Yorkshire and The Humber,2,Male,9,Aged 9 years,34386
+E12000003,Yorkshire and The Humber,2,Male,10,Aged 10 years,34752
+E12000003,Yorkshire and The Humber,2,Male,11,Aged 11 years,34515
+E12000003,Yorkshire and The Humber,2,Male,12,Aged 12 years,34340
+E12000003,Yorkshire and The Humber,2,Male,13,Aged 13 years,33900
+E12000003,Yorkshire and The Humber,2,Male,14,Aged 14 years,33077
+E12000003,Yorkshire and The Humber,2,Male,15,Aged 15 years,32244
+E12000003,Yorkshire and The Humber,2,Male,16,Aged 16 years,33151
+E12000003,Yorkshire and The Humber,2,Male,17,Aged 17 years,32800
+E12000003,Yorkshire and The Humber,2,Male,18,Aged 18 years,32373
+E12000003,Yorkshire and The Humber,2,Male,19,Aged 19 years,34847
+E12000003,Yorkshire and The Humber,2,Male,20,Aged 20 years,34353
+E12000003,Yorkshire and The Humber,2,Male,21,Aged 21 years,35483
+E12000003,Yorkshire and The Humber,2,Male,22,Aged 22 years,34767
+E12000003,Yorkshire and The Humber,2,Male,23,Aged 23 years,34609
+E12000003,Yorkshire and The Humber,2,Male,24,Aged 24 years,33872
+E12000003,Yorkshire and The Humber,2,Male,25,Aged 25 years,33595
+E12000003,Yorkshire and The Humber,2,Male,26,Aged 26 years,33614
+E12000003,Yorkshire and The Humber,2,Male,27,Aged 27 years,34426
+E12000003,Yorkshire and The Humber,2,Male,28,Aged 28 years,35106
+E12000003,Yorkshire and The Humber,2,Male,29,Aged 29 years,35811
+E12000003,Yorkshire and The Humber,2,Male,30,Aged 30 years,36618
+E12000003,Yorkshire and The Humber,2,Male,31,Aged 31 years,35398
+E12000003,Yorkshire and The Humber,2,Male,32,Aged 32 years,35046
+E12000003,Yorkshire and The Humber,2,Male,33,Aged 33 years,35649
+E12000003,Yorkshire and The Humber,2,Male,34,Aged 34 years,34911
+E12000003,Yorkshire and The Humber,2,Male,35,Aged 35 years,35188
+E12000003,Yorkshire and The Humber,2,Male,36,Aged 36 years,34446
+E12000003,Yorkshire and The Humber,2,Male,37,Aged 37 years,34060
+E12000003,Yorkshire and The Humber,2,Male,38,Aged 38 years,33533
+E12000003,Yorkshire and The Humber,2,Male,39,Aged 39 years,33768
+E12000003,Yorkshire and The Humber,2,Male,40,Aged 40 years,34197
+E12000003,Yorkshire and The Humber,2,Male,41,Aged 41 years,33871
+E12000003,Yorkshire and The Humber,2,Male,42,Aged 42 years,31698
+E12000003,Yorkshire and The Humber,2,Male,43,Aged 43 years,29875
+E12000003,Yorkshire and The Humber,2,Male,44,Aged 44 years,30024
+E12000003,Yorkshire and The Humber,2,Male,45,Aged 45 years,31122
+E12000003,Yorkshire and The Humber,2,Male,46,Aged 46 years,31497
+E12000003,Yorkshire and The Humber,2,Male,47,Aged 47 years,32722
+E12000003,Yorkshire and The Humber,2,Male,48,Aged 48 years,35007
+E12000003,Yorkshire and The Humber,2,Male,49,Aged 49 years,36824
+E12000003,Yorkshire and The Humber,2,Male,50,Aged 50 years,37567
+E12000003,Yorkshire and The Humber,2,Male,51,Aged 51 years,37047
+E12000003,Yorkshire and The Humber,2,Male,52,Aged 52 years,37776
+E12000003,Yorkshire and The Humber,2,Male,53,Aged 53 years,37721
+E12000003,Yorkshire and The Humber,2,Male,54,Aged 54 years,37618
+E12000003,Yorkshire and The Humber,2,Male,55,Aged 55 years,37650
+E12000003,Yorkshire and The Humber,2,Male,56,Aged 56 years,37974
+E12000003,Yorkshire and The Humber,2,Male,57,Aged 57 years,36820
+E12000003,Yorkshire and The Humber,2,Male,58,Aged 58 years,36669
+E12000003,Yorkshire and The Humber,2,Male,59,Aged 59 years,35346
+E12000003,Yorkshire and The Humber,2,Male,60,Aged 60 years,34575
+E12000003,Yorkshire and The Humber,2,Male,61,Aged 61 years,32983
+E12000003,Yorkshire and The Humber,2,Male,62,Aged 62 years,32108
+E12000003,Yorkshire and The Humber,2,Male,63,Aged 63 years,31838
+E12000003,Yorkshire and The Humber,2,Male,64,Aged 64 years,29925
+E12000003,Yorkshire and The Humber,2,Male,65,Aged 65 years,29029
+E12000003,Yorkshire and The Humber,2,Male,66,Aged 66 years,27456
+E12000003,Yorkshire and The Humber,2,Male,67,Aged 67 years,28261
+E12000003,Yorkshire and The Humber,2,Male,68,Aged 68 years,26820
+E12000003,Yorkshire and The Humber,2,Male,69,Aged 69 years,26149
+E12000003,Yorkshire and The Humber,2,Male,70,Aged 70 years,26297
+E12000003,Yorkshire and The Humber,2,Male,71,Aged 71 years,26273
+E12000003,Yorkshire and The Humber,2,Male,72,Aged 72 years,26765
+E12000003,Yorkshire and The Humber,2,Male,73,Aged 73 years,28874
+E12000003,Yorkshire and The Humber,2,Male,74,Aged 74 years,28170
+E12000003,Yorkshire and The Humber,2,Male,75,Aged 75 years,20406
+E12000003,Yorkshire and The Humber,2,Male,76,Aged 76 years,21706
+E12000003,Yorkshire and The Humber,2,Male,77,Aged 77 years,19432
+E12000003,Yorkshire and The Humber,2,Male,78,Aged 78 years,17659
+E12000003,Yorkshire and The Humber,2,Male,79,Aged 79 years,14614
+E12000003,Yorkshire and The Humber,2,Male,80,Aged 80 years,13521
+E12000003,Yorkshire and The Humber,2,Male,81,Aged 81 years,13602
+E12000003,Yorkshire and The Humber,2,Male,82,Aged 82 years,12876
+E12000003,Yorkshire and The Humber,2,Male,83,Aged 83 years,11812
+E12000003,Yorkshire and The Humber,2,Male,84,Aged 84 years,10460
+E12000003,Yorkshire and The Humber,2,Male,85,Aged 85 years,9146
+E12000003,Yorkshire and The Humber,2,Male,86,Aged 86 years,7904
+E12000003,Yorkshire and The Humber,2,Male,87,Aged 87 years,6741
+E12000003,Yorkshire and The Humber,2,Male,88,Aged 88 years,5703
+E12000003,Yorkshire and The Humber,2,Male,89,Aged 89 years,4658
+E12000003,Yorkshire and The Humber,2,Male,90,Aged 90 years and over,14637
+E12000004,East Midlands,1,Female,0,Aged under 1 year,22668
+E12000004,East Midlands,1,Female,1,Aged 1 year,24167
+E12000004,East Midlands,1,Female,2,Aged 2 years,24694
+E12000004,East Midlands,1,Female,3,Aged 3 years,25259
+E12000004,East Midlands,1,Female,4,Aged 4 years,26300
+E12000004,East Midlands,1,Female,5,Aged 5 years,27235
+E12000004,East Midlands,1,Female,6,Aged 6 years,26821
+E12000004,East Midlands,1,Female,7,Aged 7 years,27225
+E12000004,East Midlands,1,Female,8,Aged 8 years,28473
+E12000004,East Midlands,1,Female,9,Aged 9 years,28983
+E12000004,East Midlands,1,Female,10,Aged 10 years,29021
+E12000004,East Midlands,1,Female,11,Aged 11 years,28332
+E12000004,East Midlands,1,Female,12,Aged 12 years,28546
+E12000004,East Midlands,1,Female,13,Aged 13 years,28169
+E12000004,East Midlands,1,Female,14,Aged 14 years,27517
+E12000004,East Midlands,1,Female,15,Aged 15 years,26846
+E12000004,East Midlands,1,Female,16,Aged 16 years,26490
+E12000004,East Midlands,1,Female,17,Aged 17 years,25971
+E12000004,East Midlands,1,Female,18,Aged 18 years,28163
+E12000004,East Midlands,1,Female,19,Aged 19 years,32425
+E12000004,East Midlands,1,Female,20,Aged 20 years,32532
+E12000004,East Midlands,1,Female,21,Aged 21 years,31476
+E12000004,East Midlands,1,Female,22,Aged 22 years,29840
+E12000004,East Midlands,1,Female,23,Aged 23 years,28800
+E12000004,East Midlands,1,Female,24,Aged 24 years,28647
+E12000004,East Midlands,1,Female,25,Aged 25 years,28509
+E12000004,East Midlands,1,Female,26,Aged 26 years,29770
+E12000004,East Midlands,1,Female,27,Aged 27 years,30532
+E12000004,East Midlands,1,Female,28,Aged 28 years,31012
+E12000004,East Midlands,1,Female,29,Aged 29 years,32197
+E12000004,East Midlands,1,Female,30,Aged 30 years,33073
+E12000004,East Midlands,1,Female,31,Aged 31 years,32652
+E12000004,East Midlands,1,Female,32,Aged 32 years,32505
+E12000004,East Midlands,1,Female,33,Aged 33 years,33108
+E12000004,East Midlands,1,Female,34,Aged 34 years,32364
+E12000004,East Midlands,1,Female,35,Aged 35 years,32081
+E12000004,East Midlands,1,Female,36,Aged 36 years,32164
+E12000004,East Midlands,1,Female,37,Aged 37 years,31304
+E12000004,East Midlands,1,Female,38,Aged 38 years,31346
+E12000004,East Midlands,1,Female,39,Aged 39 years,30656
+E12000004,East Midlands,1,Female,40,Aged 40 years,32063
+E12000004,East Midlands,1,Female,41,Aged 41 years,31196
+E12000004,East Midlands,1,Female,42,Aged 42 years,29772
+E12000004,East Midlands,1,Female,43,Aged 43 years,27629
+E12000004,East Midlands,1,Female,44,Aged 44 years,27635
+E12000004,East Midlands,1,Female,45,Aged 45 years,28838
+E12000004,East Midlands,1,Female,46,Aged 46 years,29856
+E12000004,East Midlands,1,Female,47,Aged 47 years,30661
+E12000004,East Midlands,1,Female,48,Aged 48 years,32624
+E12000004,East Midlands,1,Female,49,Aged 49 years,34204
+E12000004,East Midlands,1,Female,50,Aged 50 years,35228
+E12000004,East Midlands,1,Female,51,Aged 51 years,34436
+E12000004,East Midlands,1,Female,52,Aged 52 years,35551
+E12000004,East Midlands,1,Female,53,Aged 53 years,34840
+E12000004,East Midlands,1,Female,54,Aged 54 years,35188
+E12000004,East Midlands,1,Female,55,Aged 55 years,35269
+E12000004,East Midlands,1,Female,56,Aged 56 years,35464
+E12000004,East Midlands,1,Female,57,Aged 57 years,34515
+E12000004,East Midlands,1,Female,58,Aged 58 years,34005
+E12000004,East Midlands,1,Female,59,Aged 59 years,33004
+E12000004,East Midlands,1,Female,60,Aged 60 years,31626
+E12000004,East Midlands,1,Female,61,Aged 61 years,30264
+E12000004,East Midlands,1,Female,62,Aged 62 years,29747
+E12000004,East Midlands,1,Female,63,Aged 63 years,28805
+E12000004,East Midlands,1,Female,64,Aged 64 years,27191
+E12000004,East Midlands,1,Female,65,Aged 65 years,26417
+E12000004,East Midlands,1,Female,66,Aged 66 years,26028
+E12000004,East Midlands,1,Female,67,Aged 67 years,26479
+E12000004,East Midlands,1,Female,68,Aged 68 years,25808
+E12000004,East Midlands,1,Female,69,Aged 69 years,25393
+E12000004,East Midlands,1,Female,70,Aged 70 years,25104
+E12000004,East Midlands,1,Female,71,Aged 71 years,26486
+E12000004,East Midlands,1,Female,72,Aged 72 years,26677
+E12000004,East Midlands,1,Female,73,Aged 73 years,28991
+E12000004,East Midlands,1,Female,74,Aged 74 years,27886
+E12000004,East Midlands,1,Female,75,Aged 75 years,21473
+E12000004,East Midlands,1,Female,76,Aged 76 years,23023
+E12000004,East Midlands,1,Female,77,Aged 77 years,21154
+E12000004,East Midlands,1,Female,78,Aged 78 years,18989
+E12000004,East Midlands,1,Female,79,Aged 79 years,16126
+E12000004,East Midlands,1,Female,80,Aged 80 years,14981
+E12000004,East Midlands,1,Female,81,Aged 81 years,15177
+E12000004,East Midlands,1,Female,82,Aged 82 years,14678
+E12000004,East Midlands,1,Female,83,Aged 83 years,13486
+E12000004,East Midlands,1,Female,84,Aged 84 years,12294
+E12000004,East Midlands,1,Female,85,Aged 85 years,11221
+E12000004,East Midlands,1,Female,86,Aged 86 years,9959
+E12000004,East Midlands,1,Female,87,Aged 87 years,8966
+E12000004,East Midlands,1,Female,88,Aged 88 years,7829
+E12000004,East Midlands,1,Female,89,Aged 89 years,6911
+E12000004,East Midlands,1,Female,90,Aged 90 years and over,28844
+E12000004,East Midlands,2,Male,0,Aged under 1 year,24212
+E12000004,East Midlands,2,Male,1,Aged 1 year,25412
+E12000004,East Midlands,2,Male,2,Aged 2 years,25970
+E12000004,East Midlands,2,Male,3,Aged 3 years,26748
+E12000004,East Midlands,2,Male,4,Aged 4 years,27768
+E12000004,East Midlands,2,Male,5,Aged 5 years,28106
+E12000004,East Midlands,2,Male,6,Aged 6 years,28286
+E12000004,East Midlands,2,Male,7,Aged 7 years,28261
+E12000004,East Midlands,2,Male,8,Aged 8 years,29564
+E12000004,East Midlands,2,Male,9,Aged 9 years,30362
+E12000004,East Midlands,2,Male,10,Aged 10 years,29930
+E12000004,East Midlands,2,Male,11,Aged 11 years,29813
+E12000004,East Midlands,2,Male,12,Aged 12 years,29856
+E12000004,East Midlands,2,Male,13,Aged 13 years,30452
+E12000004,East Midlands,2,Male,14,Aged 14 years,28704
+E12000004,East Midlands,2,Male,15,Aged 15 years,28307
+E12000004,East Midlands,2,Male,16,Aged 16 years,28329
+E12000004,East Midlands,2,Male,17,Aged 17 years,27990
+E12000004,East Midlands,2,Male,18,Aged 18 years,29571
+E12000004,East Midlands,2,Male,19,Aged 19 years,33166
+E12000004,East Midlands,2,Male,20,Aged 20 years,33093
+E12000004,East Midlands,2,Male,21,Aged 21 years,32734
+E12000004,East Midlands,2,Male,22,Aged 22 years,31024
+E12000004,East Midlands,2,Male,23,Aged 23 years,29221
+E12000004,East Midlands,2,Male,24,Aged 24 years,29051
+E12000004,East Midlands,2,Male,25,Aged 25 years,28695
+E12000004,East Midlands,2,Male,26,Aged 26 years,29472
+E12000004,East Midlands,2,Male,27,Aged 27 years,29503
+E12000004,East Midlands,2,Male,28,Aged 28 years,30434
+E12000004,East Midlands,2,Male,29,Aged 29 years,31041
+E12000004,East Midlands,2,Male,30,Aged 30 years,31764
+E12000004,East Midlands,2,Male,31,Aged 31 years,31190
+E12000004,East Midlands,2,Male,32,Aged 32 years,30856
+E12000004,East Midlands,2,Male,33,Aged 33 years,31506
+E12000004,East Midlands,2,Male,34,Aged 34 years,30116
+E12000004,East Midlands,2,Male,35,Aged 35 years,30671
+E12000004,East Midlands,2,Male,36,Aged 36 years,30242
+E12000004,East Midlands,2,Male,37,Aged 37 years,29817
+E12000004,East Midlands,2,Male,38,Aged 38 years,29900
+E12000004,East Midlands,2,Male,39,Aged 39 years,29852
+E12000004,East Midlands,2,Male,40,Aged 40 years,30961
+E12000004,East Midlands,2,Male,41,Aged 41 years,30160
+E12000004,East Midlands,2,Male,42,Aged 42 years,28474
+E12000004,East Midlands,2,Male,43,Aged 43 years,26878
+E12000004,East Midlands,2,Male,44,Aged 44 years,27495
+E12000004,East Midlands,2,Male,45,Aged 45 years,27997
+E12000004,East Midlands,2,Male,46,Aged 46 years,29174
+E12000004,East Midlands,2,Male,47,Aged 47 years,29726
+E12000004,East Midlands,2,Male,48,Aged 48 years,31683
+E12000004,East Midlands,2,Male,49,Aged 49 years,33608
+E12000004,East Midlands,2,Male,50,Aged 50 years,34265
+E12000004,East Midlands,2,Male,51,Aged 51 years,33289
+E12000004,East Midlands,2,Male,52,Aged 52 years,34613
+E12000004,East Midlands,2,Male,53,Aged 53 years,34581
+E12000004,East Midlands,2,Male,54,Aged 54 years,34568
+E12000004,East Midlands,2,Male,55,Aged 55 years,34488
+E12000004,East Midlands,2,Male,56,Aged 56 years,34438
+E12000004,East Midlands,2,Male,57,Aged 57 years,33604
+E12000004,East Midlands,2,Male,58,Aged 58 years,33265
+E12000004,East Midlands,2,Male,59,Aged 59 years,31976
+E12000004,East Midlands,2,Male,60,Aged 60 years,31466
+E12000004,East Midlands,2,Male,61,Aged 61 years,29538
+E12000004,East Midlands,2,Male,62,Aged 62 years,28828
+E12000004,East Midlands,2,Male,63,Aged 63 years,27844
+E12000004,East Midlands,2,Male,64,Aged 64 years,26881
+E12000004,East Midlands,2,Male,65,Aged 65 years,25462
+E12000004,East Midlands,2,Male,66,Aged 66 years,24772
+E12000004,East Midlands,2,Male,67,Aged 67 years,25166
+E12000004,East Midlands,2,Male,68,Aged 68 years,24206
+E12000004,East Midlands,2,Male,69,Aged 69 years,24087
+E12000004,East Midlands,2,Male,70,Aged 70 years,24214
+E12000004,East Midlands,2,Male,71,Aged 71 years,24397
+E12000004,East Midlands,2,Male,72,Aged 72 years,24325
+E12000004,East Midlands,2,Male,73,Aged 73 years,26504
+E12000004,East Midlands,2,Male,74,Aged 74 years,26287
+E12000004,East Midlands,2,Male,75,Aged 75 years,19753
+E12000004,East Midlands,2,Male,76,Aged 76 years,20661
+E12000004,East Midlands,2,Male,77,Aged 77 years,18711
+E12000004,East Midlands,2,Male,78,Aged 78 years,16955
+E12000004,East Midlands,2,Male,79,Aged 79 years,13968
+E12000004,East Midlands,2,Male,80,Aged 80 years,12787
+E12000004,East Midlands,2,Male,81,Aged 81 years,12403
+E12000004,East Midlands,2,Male,82,Aged 82 years,11730
+E12000004,East Midlands,2,Male,83,Aged 83 years,10660
+E12000004,East Midlands,2,Male,84,Aged 84 years,9266
+E12000004,East Midlands,2,Male,85,Aged 85 years,8153
+E12000004,East Midlands,2,Male,86,Aged 86 years,7156
+E12000004,East Midlands,2,Male,87,Aged 87 years,6085
+E12000004,East Midlands,2,Male,88,Aged 88 years,5333
+E12000004,East Midlands,2,Male,89,Aged 89 years,4548
+E12000004,East Midlands,2,Male,90,Aged 90 years and over,13812
+E12000005,West Midlands,1,Female,0,Aged under 1 year,31054
+E12000005,West Midlands,1,Female,1,Aged 1 year,32152
+E12000005,West Midlands,1,Female,2,Aged 2 years,32815
+E12000005,West Midlands,1,Female,3,Aged 3 years,33399
+E12000005,West Midlands,1,Female,4,Aged 4 years,34636
+E12000005,West Midlands,1,Female,5,Aged 5 years,34846
+E12000005,West Midlands,1,Female,6,Aged 6 years,34704
+E12000005,West Midlands,1,Female,7,Aged 7 years,35624
+E12000005,West Midlands,1,Female,8,Aged 8 years,36940
+E12000005,West Midlands,1,Female,9,Aged 9 years,37346
+E12000005,West Midlands,1,Female,10,Aged 10 years,37072
+E12000005,West Midlands,1,Female,11,Aged 11 years,36307
+E12000005,West Midlands,1,Female,12,Aged 12 years,36757
+E12000005,West Midlands,1,Female,13,Aged 13 years,36697
+E12000005,West Midlands,1,Female,14,Aged 14 years,35646
+E12000005,West Midlands,1,Female,15,Aged 15 years,34590
+E12000005,West Midlands,1,Female,16,Aged 16 years,35120
+E12000005,West Midlands,1,Female,17,Aged 17 years,34322
+E12000005,West Midlands,1,Female,18,Aged 18 years,33962
+E12000005,West Midlands,1,Female,19,Aged 19 years,35645
+E12000005,West Midlands,1,Female,20,Aged 20 years,35083
+E12000005,West Midlands,1,Female,21,Aged 21 years,35213
+E12000005,West Midlands,1,Female,22,Aged 22 years,35957
+E12000005,West Midlands,1,Female,23,Aged 23 years,35939
+E12000005,West Midlands,1,Female,24,Aged 24 years,36716
+E12000005,West Midlands,1,Female,25,Aged 25 years,36020
+E12000005,West Midlands,1,Female,26,Aged 26 years,36781
+E12000005,West Midlands,1,Female,27,Aged 27 years,37839
+E12000005,West Midlands,1,Female,28,Aged 28 years,38634
+E12000005,West Midlands,1,Female,29,Aged 29 years,39878
+E12000005,West Midlands,1,Female,30,Aged 30 years,41348
+E12000005,West Midlands,1,Female,31,Aged 31 years,41097
+E12000005,West Midlands,1,Female,32,Aged 32 years,41035
+E12000005,West Midlands,1,Female,33,Aged 33 years,41817
+E12000005,West Midlands,1,Female,34,Aged 34 years,40997
+E12000005,West Midlands,1,Female,35,Aged 35 years,40181
+E12000005,West Midlands,1,Female,36,Aged 36 years,39782
+E12000005,West Midlands,1,Female,37,Aged 37 years,39338
+E12000005,West Midlands,1,Female,38,Aged 38 years,39331
+E12000005,West Midlands,1,Female,39,Aged 39 years,38412
+E12000005,West Midlands,1,Female,40,Aged 40 years,39774
+E12000005,West Midlands,1,Female,41,Aged 41 years,39174
+E12000005,West Midlands,1,Female,42,Aged 42 years,36357
+E12000005,West Midlands,1,Female,43,Aged 43 years,33974
+E12000005,West Midlands,1,Female,44,Aged 44 years,34291
+E12000005,West Midlands,1,Female,45,Aged 45 years,34658
+E12000005,West Midlands,1,Female,46,Aged 46 years,35601
+E12000005,West Midlands,1,Female,47,Aged 47 years,36514
+E12000005,West Midlands,1,Female,48,Aged 48 years,38220
+E12000005,West Midlands,1,Female,49,Aged 49 years,40876
+E12000005,West Midlands,1,Female,50,Aged 50 years,41672
+E12000005,West Midlands,1,Female,51,Aged 51 years,41023
+E12000005,West Midlands,1,Female,52,Aged 52 years,41799
+E12000005,West Midlands,1,Female,53,Aged 53 years,41498
+E12000005,West Midlands,1,Female,54,Aged 54 years,41506
+E12000005,West Midlands,1,Female,55,Aged 55 years,41502
+E12000005,West Midlands,1,Female,56,Aged 56 years,41351
+E12000005,West Midlands,1,Female,57,Aged 57 years,39748
+E12000005,West Midlands,1,Female,58,Aged 58 years,39266
+E12000005,West Midlands,1,Female,59,Aged 59 years,38427
+E12000005,West Midlands,1,Female,60,Aged 60 years,36870
+E12000005,West Midlands,1,Female,61,Aged 61 years,34715
+E12000005,West Midlands,1,Female,62,Aged 62 years,34066
+E12000005,West Midlands,1,Female,63,Aged 63 years,33422
+E12000005,West Midlands,1,Female,64,Aged 64 years,32170
+E12000005,West Midlands,1,Female,65,Aged 65 years,30606
+E12000005,West Midlands,1,Female,66,Aged 66 years,30295
+E12000005,West Midlands,1,Female,67,Aged 67 years,30770
+E12000005,West Midlands,1,Female,68,Aged 68 years,29474
+E12000005,West Midlands,1,Female,69,Aged 69 years,29052
+E12000005,West Midlands,1,Female,70,Aged 70 years,29090
+E12000005,West Midlands,1,Female,71,Aged 71 years,29987
+E12000005,West Midlands,1,Female,72,Aged 72 years,30102
+E12000005,West Midlands,1,Female,73,Aged 73 years,32265
+E12000005,West Midlands,1,Female,74,Aged 74 years,31590
+E12000005,West Midlands,1,Female,75,Aged 75 years,24901
+E12000005,West Midlands,1,Female,76,Aged 76 years,26796
+E12000005,West Midlands,1,Female,77,Aged 77 years,25428
+E12000005,West Midlands,1,Female,78,Aged 78 years,23339
+E12000005,West Midlands,1,Female,79,Aged 79 years,19889
+E12000005,West Midlands,1,Female,80,Aged 80 years,18690
+E12000005,West Midlands,1,Female,81,Aged 81 years,18508
+E12000005,West Midlands,1,Female,82,Aged 82 years,18008
+E12000005,West Midlands,1,Female,83,Aged 83 years,16624
+E12000005,West Midlands,1,Female,84,Aged 84 years,15720
+E12000005,West Midlands,1,Female,85,Aged 85 years,14040
+E12000005,West Midlands,1,Female,86,Aged 86 years,12389
+E12000005,West Midlands,1,Female,87,Aged 87 years,11151
+E12000005,West Midlands,1,Female,88,Aged 88 years,10148
+E12000005,West Midlands,1,Female,89,Aged 89 years,8987
+E12000005,West Midlands,1,Female,90,Aged 90 years and over,35829
+E12000005,West Midlands,2,Male,0,Aged under 1 year,32114
+E12000005,West Midlands,2,Male,1,Aged 1 year,33697
+E12000005,West Midlands,2,Male,2,Aged 2 years,34575
+E12000005,West Midlands,2,Male,3,Aged 3 years,34682
+E12000005,West Midlands,2,Male,4,Aged 4 years,36266
+E12000005,West Midlands,2,Male,5,Aged 5 years,36763
+E12000005,West Midlands,2,Male,6,Aged 6 years,36639
+E12000005,West Midlands,2,Male,7,Aged 7 years,37298
+E12000005,West Midlands,2,Male,8,Aged 8 years,39198
+E12000005,West Midlands,2,Male,9,Aged 9 years,38942
+E12000005,West Midlands,2,Male,10,Aged 10 years,39062
+E12000005,West Midlands,2,Male,11,Aged 11 years,38578
+E12000005,West Midlands,2,Male,12,Aged 12 years,38750
+E12000005,West Midlands,2,Male,13,Aged 13 years,38488
+E12000005,West Midlands,2,Male,14,Aged 14 years,37060
+E12000005,West Midlands,2,Male,15,Aged 15 years,36731
+E12000005,West Midlands,2,Male,16,Aged 16 years,37518
+E12000005,West Midlands,2,Male,17,Aged 17 years,36845
+E12000005,West Midlands,2,Male,18,Aged 18 years,36090
+E12000005,West Midlands,2,Male,19,Aged 19 years,36661
+E12000005,West Midlands,2,Male,20,Aged 20 years,36715
+E12000005,West Midlands,2,Male,21,Aged 21 years,37489
+E12000005,West Midlands,2,Male,22,Aged 22 years,37231
+E12000005,West Midlands,2,Male,23,Aged 23 years,36752
+E12000005,West Midlands,2,Male,24,Aged 24 years,36325
+E12000005,West Midlands,2,Male,25,Aged 25 years,36110
+E12000005,West Midlands,2,Male,26,Aged 26 years,36017
+E12000005,West Midlands,2,Male,27,Aged 27 years,36586
+E12000005,West Midlands,2,Male,28,Aged 28 years,36736
+E12000005,West Midlands,2,Male,29,Aged 29 years,38402
+E12000005,West Midlands,2,Male,30,Aged 30 years,39548
+E12000005,West Midlands,2,Male,31,Aged 31 years,38818
+E12000005,West Midlands,2,Male,32,Aged 32 years,38357
+E12000005,West Midlands,2,Male,33,Aged 33 years,38941
+E12000005,West Midlands,2,Male,34,Aged 34 years,37978
+E12000005,West Midlands,2,Male,35,Aged 35 years,37970
+E12000005,West Midlands,2,Male,36,Aged 36 years,37958
+E12000005,West Midlands,2,Male,37,Aged 37 years,36981
+E12000005,West Midlands,2,Male,38,Aged 38 years,36545
+E12000005,West Midlands,2,Male,39,Aged 39 years,36641
+E12000005,West Midlands,2,Male,40,Aged 40 years,37855
+E12000005,West Midlands,2,Male,41,Aged 41 years,36919
+E12000005,West Midlands,2,Male,42,Aged 42 years,35454
+E12000005,West Midlands,2,Male,43,Aged 43 years,33268
+E12000005,West Midlands,2,Male,44,Aged 44 years,33365
+E12000005,West Midlands,2,Male,45,Aged 45 years,34317
+E12000005,West Midlands,2,Male,46,Aged 46 years,35491
+E12000005,West Midlands,2,Male,47,Aged 47 years,36157
+E12000005,West Midlands,2,Male,48,Aged 48 years,38378
+E12000005,West Midlands,2,Male,49,Aged 49 years,39946
+E12000005,West Midlands,2,Male,50,Aged 50 years,41088
+E12000005,West Midlands,2,Male,51,Aged 51 years,40505
+E12000005,West Midlands,2,Male,52,Aged 52 years,41630
+E12000005,West Midlands,2,Male,53,Aged 53 years,40865
+E12000005,West Midlands,2,Male,54,Aged 54 years,41159
+E12000005,West Midlands,2,Male,55,Aged 55 years,40207
+E12000005,West Midlands,2,Male,56,Aged 56 years,39908
+E12000005,West Midlands,2,Male,57,Aged 57 years,38894
+E12000005,West Midlands,2,Male,58,Aged 58 years,38408
+E12000005,West Midlands,2,Male,59,Aged 59 years,37816
+E12000005,West Midlands,2,Male,60,Aged 60 years,36292
+E12000005,West Midlands,2,Male,61,Aged 61 years,34271
+E12000005,West Midlands,2,Male,62,Aged 62 years,33680
+E12000005,West Midlands,2,Male,63,Aged 63 years,32934
+E12000005,West Midlands,2,Male,64,Aged 64 years,31152
+E12000005,West Midlands,2,Male,65,Aged 65 years,29487
+E12000005,West Midlands,2,Male,66,Aged 66 years,29120
+E12000005,West Midlands,2,Male,67,Aged 67 years,29251
+E12000005,West Midlands,2,Male,68,Aged 68 years,28237
+E12000005,West Midlands,2,Male,69,Aged 69 years,27463
+E12000005,West Midlands,2,Male,70,Aged 70 years,27098
+E12000005,West Midlands,2,Male,71,Aged 71 years,27679
+E12000005,West Midlands,2,Male,72,Aged 72 years,28154
+E12000005,West Midlands,2,Male,73,Aged 73 years,29226
+E12000005,West Midlands,2,Male,74,Aged 74 years,28669
+E12000005,West Midlands,2,Male,75,Aged 75 years,22505
+E12000005,West Midlands,2,Male,76,Aged 76 years,23552
+E12000005,West Midlands,2,Male,77,Aged 77 years,22300
+E12000005,West Midlands,2,Male,78,Aged 78 years,19879
+E12000005,West Midlands,2,Male,79,Aged 79 years,16934
+E12000005,West Midlands,2,Male,80,Aged 80 years,15325
+E12000005,West Midlands,2,Male,81,Aged 81 years,15287
+E12000005,West Midlands,2,Male,82,Aged 82 years,14345
+E12000005,West Midlands,2,Male,83,Aged 83 years,12818
+E12000005,West Midlands,2,Male,84,Aged 84 years,11635
+E12000005,West Midlands,2,Male,85,Aged 85 years,10025
+E12000005,West Midlands,2,Male,86,Aged 86 years,8741
+E12000005,West Midlands,2,Male,87,Aged 87 years,7245
+E12000005,West Midlands,2,Male,88,Aged 88 years,6350
+E12000005,West Midlands,2,Male,89,Aged 89 years,5346
+E12000005,West Midlands,2,Male,90,Aged 90 years and over,16876
+E12000006,East of England,1,Female,0,Aged under 1 year,31663
+E12000006,East of England,1,Female,1,Aged 1 year,33284
+E12000006,East of England,1,Female,2,Aged 2 years,34275
+E12000006,East of England,1,Female,3,Aged 3 years,34798
+E12000006,East of England,1,Female,4,Aged 4 years,36019
+E12000006,East of England,1,Female,5,Aged 5 years,36749
+E12000006,East of England,1,Female,6,Aged 6 years,36098
+E12000006,East of England,1,Female,7,Aged 7 years,36699
+E12000006,East of England,1,Female,8,Aged 8 years,38099
+E12000006,East of England,1,Female,9,Aged 9 years,38237
+E12000006,East of England,1,Female,10,Aged 10 years,38091
+E12000006,East of England,1,Female,11,Aged 11 years,38245
+E12000006,East of England,1,Female,12,Aged 12 years,37986
+E12000006,East of England,1,Female,13,Aged 13 years,37110
+E12000006,East of England,1,Female,14,Aged 14 years,36135
+E12000006,East of England,1,Female,15,Aged 15 years,35000
+E12000006,East of England,1,Female,16,Aged 16 years,34671
+E12000006,East of England,1,Female,17,Aged 17 years,34833
+E12000006,East of England,1,Female,18,Aged 18 years,31472
+E12000006,East of England,1,Female,19,Aged 19 years,29697
+E12000006,East of England,1,Female,20,Aged 20 years,29434
+E12000006,East of England,1,Female,21,Aged 21 years,31142
+E12000006,East of England,1,Female,22,Aged 22 years,34610
+E12000006,East of England,1,Female,23,Aged 23 years,35817
+E12000006,East of England,1,Female,24,Aged 24 years,36260
+E12000006,East of England,1,Female,25,Aged 25 years,36906
+E12000006,East of England,1,Female,26,Aged 26 years,37929
+E12000006,East of England,1,Female,27,Aged 27 years,39548
+E12000006,East of England,1,Female,28,Aged 28 years,40433
+E12000006,East of England,1,Female,29,Aged 29 years,42154
+E12000006,East of England,1,Female,30,Aged 30 years,43193
+E12000006,East of England,1,Female,31,Aged 31 years,43329
+E12000006,East of England,1,Female,32,Aged 32 years,44103
+E12000006,East of England,1,Female,33,Aged 33 years,44829
+E12000006,East of England,1,Female,34,Aged 34 years,43774
+E12000006,East of England,1,Female,35,Aged 35 years,43537
+E12000006,East of England,1,Female,36,Aged 36 years,43571
+E12000006,East of England,1,Female,37,Aged 37 years,42812
+E12000006,East of England,1,Female,38,Aged 38 years,42228
+E12000006,East of England,1,Female,39,Aged 39 years,43369
+E12000006,East of England,1,Female,40,Aged 40 years,44410
+E12000006,East of England,1,Female,41,Aged 41 years,43617
+E12000006,East of England,1,Female,42,Aged 42 years,40941
+E12000006,East of England,1,Female,43,Aged 43 years,38640
+E12000006,East of England,1,Female,44,Aged 44 years,38942
+E12000006,East of England,1,Female,45,Aged 45 years,39333
+E12000006,East of England,1,Female,46,Aged 46 years,40690
+E12000006,East of England,1,Female,47,Aged 47 years,41202
+E12000006,East of England,1,Female,48,Aged 48 years,42941
+E12000006,East of England,1,Female,49,Aged 49 years,44090
+E12000006,East of England,1,Female,50,Aged 50 years,45220
+E12000006,East of England,1,Female,51,Aged 51 years,43608
+E12000006,East of England,1,Female,52,Aged 52 years,45409
+E12000006,East of England,1,Female,53,Aged 53 years,45197
+E12000006,East of England,1,Female,54,Aged 54 years,45464
+E12000006,East of England,1,Female,55,Aged 55 years,45658
+E12000006,East of England,1,Female,56,Aged 56 years,45272
+E12000006,East of England,1,Female,57,Aged 57 years,44412
+E12000006,East of England,1,Female,58,Aged 58 years,42874
+E12000006,East of England,1,Female,59,Aged 59 years,41521
+E12000006,East of England,1,Female,60,Aged 60 years,40176
+E12000006,East of England,1,Female,61,Aged 61 years,37818
+E12000006,East of England,1,Female,62,Aged 62 years,37652
+E12000006,East of England,1,Female,63,Aged 63 years,36360
+E12000006,East of England,1,Female,64,Aged 64 years,34992
+E12000006,East of England,1,Female,65,Aged 65 years,33976
+E12000006,East of England,1,Female,66,Aged 66 years,33469
+E12000006,East of England,1,Female,67,Aged 67 years,33354
+E12000006,East of England,1,Female,68,Aged 68 years,32708
+E12000006,East of England,1,Female,69,Aged 69 years,31984
+E12000006,East of England,1,Female,70,Aged 70 years,32376
+E12000006,East of England,1,Female,71,Aged 71 years,33307
+E12000006,East of England,1,Female,72,Aged 72 years,34169
+E12000006,East of England,1,Female,73,Aged 73 years,37791
+E12000006,East of England,1,Female,74,Aged 74 years,38944
+E12000006,East of England,1,Female,75,Aged 75 years,28113
+E12000006,East of England,1,Female,76,Aged 76 years,29652
+E12000006,East of England,1,Female,77,Aged 77 years,26817
+E12000006,East of England,1,Female,78,Aged 78 years,25181
+E12000006,East of England,1,Female,79,Aged 79 years,21272
+E12000006,East of England,1,Female,80,Aged 80 years,19834
+E12000006,East of England,1,Female,81,Aged 81 years,20274
+E12000006,East of England,1,Female,82,Aged 82 years,19610
+E12000006,East of England,1,Female,83,Aged 83 years,18333
+E12000006,East of England,1,Female,84,Aged 84 years,16845
+E12000006,East of England,1,Female,85,Aged 85 years,15659
+E12000006,East of England,1,Female,86,Aged 86 years,13934
+E12000006,East of England,1,Female,87,Aged 87 years,12356
+E12000006,East of England,1,Female,88,Aged 88 years,11301
+E12000006,East of England,1,Female,89,Aged 89 years,10173
+E12000006,East of England,1,Female,90,Aged 90 years and over,42084
+E12000006,East of England,2,Male,0,Aged under 1 year,33147
+E12000006,East of England,2,Male,1,Aged 1 year,35288
+E12000006,East of England,2,Male,2,Aged 2 years,36287
+E12000006,East of England,2,Male,3,Aged 3 years,36854
+E12000006,East of England,2,Male,4,Aged 4 years,37529
+E12000006,East of England,2,Male,5,Aged 5 years,38721
+E12000006,East of England,2,Male,6,Aged 6 years,38026
+E12000006,East of England,2,Male,7,Aged 7 years,38170
+E12000006,East of England,2,Male,8,Aged 8 years,39801
+E12000006,East of England,2,Male,9,Aged 9 years,40018
+E12000006,East of England,2,Male,10,Aged 10 years,40626
+E12000006,East of England,2,Male,11,Aged 11 years,39670
+E12000006,East of England,2,Male,12,Aged 12 years,39482
+E12000006,East of England,2,Male,13,Aged 13 years,39672
+E12000006,East of England,2,Male,14,Aged 14 years,38059
+E12000006,East of England,2,Male,15,Aged 15 years,36952
+E12000006,East of England,2,Male,16,Aged 16 years,37135
+E12000006,East of England,2,Male,17,Aged 17 years,37005
+E12000006,East of England,2,Male,18,Aged 18 years,34314
+E12000006,East of England,2,Male,19,Aged 19 years,31953
+E12000006,East of England,2,Male,20,Aged 20 years,31787
+E12000006,East of England,2,Male,21,Aged 21 years,33648
+E12000006,East of England,2,Male,22,Aged 22 years,35529
+E12000006,East of England,2,Male,23,Aged 23 years,36858
+E12000006,East of England,2,Male,24,Aged 24 years,37288
+E12000006,East of England,2,Male,25,Aged 25 years,36826
+E12000006,East of England,2,Male,26,Aged 26 years,37526
+E12000006,East of England,2,Male,27,Aged 27 years,38344
+E12000006,East of England,2,Male,28,Aged 28 years,38860
+E12000006,East of England,2,Male,29,Aged 29 years,39414
+E12000006,East of England,2,Male,30,Aged 30 years,40956
+E12000006,East of England,2,Male,31,Aged 31 years,40691
+E12000006,East of England,2,Male,32,Aged 32 years,41078
+E12000006,East of England,2,Male,33,Aged 33 years,41716
+E12000006,East of England,2,Male,34,Aged 34 years,40742
+E12000006,East of England,2,Male,35,Aged 35 years,41144
+E12000006,East of England,2,Male,36,Aged 36 years,40158
+E12000006,East of England,2,Male,37,Aged 37 years,40162
+E12000006,East of England,2,Male,38,Aged 38 years,40038
+E12000006,East of England,2,Male,39,Aged 39 years,40877
+E12000006,East of England,2,Male,40,Aged 40 years,42098
+E12000006,East of England,2,Male,41,Aged 41 years,41289
+E12000006,East of England,2,Male,42,Aged 42 years,40154
+E12000006,East of England,2,Male,43,Aged 43 years,37560
+E12000006,East of England,2,Male,44,Aged 44 years,38192
+E12000006,East of England,2,Male,45,Aged 45 years,38183
+E12000006,East of England,2,Male,46,Aged 46 years,39391
+E12000006,East of England,2,Male,47,Aged 47 years,40506
+E12000006,East of England,2,Male,48,Aged 48 years,41283
+E12000006,East of England,2,Male,49,Aged 49 years,43190
+E12000006,East of England,2,Male,50,Aged 50 years,43689
+E12000006,East of England,2,Male,51,Aged 51 years,42849
+E12000006,East of England,2,Male,52,Aged 52 years,43743
+E12000006,East of England,2,Male,53,Aged 53 years,43477
+E12000006,East of England,2,Male,54,Aged 54 years,44178
+E12000006,East of England,2,Male,55,Aged 55 years,44010
+E12000006,East of England,2,Male,56,Aged 56 years,43618
+E12000006,East of England,2,Male,57,Aged 57 years,42660
+E12000006,East of England,2,Male,58,Aged 58 years,41761
+E12000006,East of England,2,Male,59,Aged 59 years,40708
+E12000006,East of England,2,Male,60,Aged 60 years,39339
+E12000006,East of England,2,Male,61,Aged 61 years,37335
+E12000006,East of England,2,Male,62,Aged 62 years,36571
+E12000006,East of England,2,Male,63,Aged 63 years,35532
+E12000006,East of England,2,Male,64,Aged 64 years,33701
+E12000006,East of England,2,Male,65,Aged 65 years,32183
+E12000006,East of England,2,Male,66,Aged 66 years,31192
+E12000006,East of England,2,Male,67,Aged 67 years,30948
+E12000006,East of England,2,Male,68,Aged 68 years,30023
+E12000006,East of England,2,Male,69,Aged 69 years,29386
+E12000006,East of England,2,Male,70,Aged 70 years,29581
+E12000006,East of England,2,Male,71,Aged 71 years,30252
+E12000006,East of England,2,Male,72,Aged 72 years,30974
+E12000006,East of England,2,Male,73,Aged 73 years,34284
+E12000006,East of England,2,Male,74,Aged 74 years,34306
+E12000006,East of England,2,Male,75,Aged 75 years,25489
+E12000006,East of England,2,Male,76,Aged 76 years,26537
+E12000006,East of England,2,Male,77,Aged 77 years,23723
+E12000006,East of England,2,Male,78,Aged 78 years,21940
+E12000006,East of England,2,Male,79,Aged 79 years,17837
+E12000006,East of England,2,Male,80,Aged 80 years,16207
+E12000006,East of England,2,Male,81,Aged 81 years,16564
+E12000006,East of England,2,Male,82,Aged 82 years,15670
+E12000006,East of England,2,Male,83,Aged 83 years,14614
+E12000006,East of England,2,Male,84,Aged 84 years,13312
+E12000006,East of England,2,Male,85,Aged 85 years,11289
+E12000006,East of England,2,Male,86,Aged 86 years,10153
+E12000006,East of England,2,Male,87,Aged 87 years,8670
+E12000006,East of England,2,Male,88,Aged 88 years,7436
+E12000006,East of England,2,Male,89,Aged 89 years,6404
+E12000006,East of England,2,Male,90,Aged 90 years and over,20632
+E12000007,London,1,Female,0,Aged under 1 year,51365
+E12000007,London,1,Female,1,Aged 1 year,52461
+E12000007,London,1,Female,2,Aged 2 years,51422
+E12000007,London,1,Female,3,Aged 3 years,51772
+E12000007,London,1,Female,4,Aged 4 years,52344
+E12000007,London,1,Female,5,Aged 5 years,51978
+E12000007,London,1,Female,6,Aged 6 years,50743
+E12000007,London,1,Female,7,Aged 7 years,51056
+E12000007,London,1,Female,8,Aged 8 years,52906
+E12000007,London,1,Female,9,Aged 9 years,53367
+E12000007,London,1,Female,10,Aged 10 years,52943
+E12000007,London,1,Female,11,Aged 11 years,52981
+E12000007,London,1,Female,12,Aged 12 years,53016
+E12000007,London,1,Female,13,Aged 13 years,52255
+E12000007,London,1,Female,14,Aged 14 years,50568
+E12000007,London,1,Female,15,Aged 15 years,48872
+E12000007,London,1,Female,16,Aged 16 years,49725
+E12000007,London,1,Female,17,Aged 17 years,49107
+E12000007,London,1,Female,18,Aged 18 years,47062
+E12000007,London,1,Female,19,Aged 19 years,45495
+E12000007,London,1,Female,20,Aged 20 years,47423
+E12000007,London,1,Female,21,Aged 21 years,52773
+E12000007,London,1,Female,22,Aged 22 years,60115
+E12000007,London,1,Female,23,Aged 23 years,69250
+E12000007,London,1,Female,24,Aged 24 years,74886
+E12000007,London,1,Female,25,Aged 25 years,78963
+E12000007,London,1,Female,26,Aged 26 years,81084
+E12000007,London,1,Female,27,Aged 27 years,82627
+E12000007,London,1,Female,28,Aged 28 years,84296
+E12000007,London,1,Female,29,Aged 29 years,85243
+E12000007,London,1,Female,30,Aged 30 years,85988
+E12000007,London,1,Female,31,Aged 31 years,85726
+E12000007,London,1,Female,32,Aged 32 years,85317
+E12000007,London,1,Female,33,Aged 33 years,84173
+E12000007,London,1,Female,34,Aged 34 years,81222
+E12000007,London,1,Female,35,Aged 35 years,80312
+E12000007,London,1,Female,36,Aged 36 years,77993
+E12000007,London,1,Female,37,Aged 37 years,75970
+E12000007,London,1,Female,38,Aged 38 years,74846
+E12000007,London,1,Female,39,Aged 39 years,73606
+E12000007,London,1,Female,40,Aged 40 years,74126
+E12000007,London,1,Female,41,Aged 41 years,72435
+E12000007,London,1,Female,42,Aged 42 years,68385
+E12000007,London,1,Female,43,Aged 43 years,64728
+E12000007,London,1,Female,44,Aged 44 years,63451
+E12000007,London,1,Female,45,Aged 45 years,61785
+E12000007,London,1,Female,46,Aged 46 years,61694
+E12000007,London,1,Female,47,Aged 47 years,59538
+E12000007,London,1,Female,48,Aged 48 years,59568
+E12000007,London,1,Female,49,Aged 49 years,58620
+E12000007,London,1,Female,50,Aged 50 years,60891
+E12000007,London,1,Female,51,Aged 51 years,59019
+E12000007,London,1,Female,52,Aged 52 years,59336
+E12000007,London,1,Female,53,Aged 53 years,58168
+E12000007,London,1,Female,54,Aged 54 years,56428
+E12000007,London,1,Female,55,Aged 55 years,56592
+E12000007,London,1,Female,56,Aged 56 years,55117
+E12000007,London,1,Female,57,Aged 57 years,53039
+E12000007,London,1,Female,58,Aged 58 years,51102
+E12000007,London,1,Female,59,Aged 59 years,48073
+E12000007,London,1,Female,60,Aged 60 years,46511
+E12000007,London,1,Female,61,Aged 61 years,43571
+E12000007,London,1,Female,62,Aged 62 years,41603
+E12000007,London,1,Female,63,Aged 63 years,38598
+E12000007,London,1,Female,64,Aged 64 years,37376
+E12000007,London,1,Female,65,Aged 65 years,35105
+E12000007,London,1,Female,66,Aged 66 years,33353
+E12000007,London,1,Female,67,Aged 67 years,31786
+E12000007,London,1,Female,68,Aged 68 years,30915
+E12000007,London,1,Female,69,Aged 69 years,29408
+E12000007,London,1,Female,70,Aged 70 years,29140
+E12000007,London,1,Female,71,Aged 71 years,28817
+E12000007,London,1,Female,72,Aged 72 years,28437
+E12000007,London,1,Female,73,Aged 73 years,29349
+E12000007,London,1,Female,74,Aged 74 years,28881
+E12000007,London,1,Female,75,Aged 75 years,23288
+E12000007,London,1,Female,76,Aged 76 years,22816
+E12000007,London,1,Female,77,Aged 77 years,21361
+E12000007,London,1,Female,78,Aged 78 years,20544
+E12000007,London,1,Female,79,Aged 79 years,17680
+E12000007,London,1,Female,80,Aged 80 years,17119
+E12000007,London,1,Female,81,Aged 81 years,17495
+E12000007,London,1,Female,82,Aged 82 years,16692
+E12000007,London,1,Female,83,Aged 83 years,15360
+E12000007,London,1,Female,84,Aged 84 years,14145
+E12000007,London,1,Female,85,Aged 85 years,13049
+E12000007,London,1,Female,86,Aged 86 years,11717
+E12000007,London,1,Female,87,Aged 87 years,10111
+E12000007,London,1,Female,88,Aged 88 years,9311
+E12000007,London,1,Female,89,Aged 89 years,8170
+E12000007,London,1,Female,90,Aged 90 years and over,34566
+E12000007,London,2,Male,0,Aged under 1 year,52867
+E12000007,London,2,Male,1,Aged 1 year,54678
+E12000007,London,2,Male,2,Aged 2 years,54274
+E12000007,London,2,Male,3,Aged 3 years,53488
+E12000007,London,2,Male,4,Aged 4 years,54287
+E12000007,London,2,Male,5,Aged 5 years,54787
+E12000007,London,2,Male,6,Aged 6 years,53387
+E12000007,London,2,Male,7,Aged 7 years,53156
+E12000007,London,2,Male,8,Aged 8 years,54762
+E12000007,London,2,Male,9,Aged 9 years,55353
+E12000007,London,2,Male,10,Aged 10 years,55854
+E12000007,London,2,Male,11,Aged 11 years,55190
+E12000007,London,2,Male,12,Aged 12 years,54517
+E12000007,London,2,Male,13,Aged 13 years,54707
+E12000007,London,2,Male,14,Aged 14 years,53409
+E12000007,London,2,Male,15,Aged 15 years,50977
+E12000007,London,2,Male,16,Aged 16 years,52219
+E12000007,London,2,Male,17,Aged 17 years,51271
+E12000007,London,2,Male,18,Aged 18 years,48499
+E12000007,London,2,Male,19,Aged 19 years,46159
+E12000007,London,2,Male,20,Aged 20 years,47094
+E12000007,London,2,Male,21,Aged 21 years,50217
+E12000007,London,2,Male,22,Aged 22 years,56306
+E12000007,London,2,Male,23,Aged 23 years,62704
+E12000007,London,2,Male,24,Aged 24 years,68419
+E12000007,London,2,Male,25,Aged 25 years,71247
+E12000007,London,2,Male,26,Aged 26 years,73671
+E12000007,London,2,Male,27,Aged 27 years,75473
+E12000007,London,2,Male,28,Aged 28 years,76331
+E12000007,London,2,Male,29,Aged 29 years,77612
+E12000007,London,2,Male,30,Aged 30 years,79082
+E12000007,London,2,Male,31,Aged 31 years,78576
+E12000007,London,2,Male,32,Aged 32 years,78234
+E12000007,London,2,Male,33,Aged 33 years,76750
+E12000007,London,2,Male,34,Aged 34 years,73272
+E12000007,London,2,Male,35,Aged 35 years,73441
+E12000007,London,2,Male,36,Aged 36 years,71871
+E12000007,London,2,Male,37,Aged 37 years,69695
+E12000007,London,2,Male,38,Aged 38 years,69108
+E12000007,London,2,Male,39,Aged 39 years,68865
+E12000007,London,2,Male,40,Aged 40 years,69212
+E12000007,London,2,Male,41,Aged 41 years,67727
+E12000007,London,2,Male,42,Aged 42 years,64890
+E12000007,London,2,Male,43,Aged 43 years,61597
+E12000007,London,2,Male,44,Aged 44 years,60729
+E12000007,London,2,Male,45,Aged 45 years,60098
+E12000007,London,2,Male,46,Aged 46 years,59842
+E12000007,London,2,Male,47,Aged 47 years,58000
+E12000007,London,2,Male,48,Aged 48 years,57753
+E12000007,London,2,Male,49,Aged 49 years,57072
+E12000007,London,2,Male,50,Aged 50 years,57462
+E12000007,London,2,Male,51,Aged 51 years,56620
+E12000007,London,2,Male,52,Aged 52 years,56419
+E12000007,London,2,Male,53,Aged 53 years,55241
+E12000007,London,2,Male,54,Aged 54 years,54208
+E12000007,London,2,Male,55,Aged 55 years,53147
+E12000007,London,2,Male,56,Aged 56 years,51816
+E12000007,London,2,Male,57,Aged 57 years,50086
+E12000007,London,2,Male,58,Aged 58 years,47627
+E12000007,London,2,Male,59,Aged 59 years,45015
+E12000007,London,2,Male,60,Aged 60 years,44246
+E12000007,London,2,Male,61,Aged 61 years,41552
+E12000007,London,2,Male,62,Aged 62 years,38968
+E12000007,London,2,Male,63,Aged 63 years,37239
+E12000007,London,2,Male,64,Aged 64 years,34921
+E12000007,London,2,Male,65,Aged 65 years,32785
+E12000007,London,2,Male,66,Aged 66 years,30670
+E12000007,London,2,Male,67,Aged 67 years,28841
+E12000007,London,2,Male,68,Aged 68 years,27279
+E12000007,London,2,Male,69,Aged 69 years,26200
+E12000007,London,2,Male,70,Aged 70 years,25664
+E12000007,London,2,Male,71,Aged 71 years,24769
+E12000007,London,2,Male,72,Aged 72 years,24383
+E12000007,London,2,Male,73,Aged 73 years,25084
+E12000007,London,2,Male,74,Aged 74 years,24611
+E12000007,London,2,Male,75,Aged 75 years,18854
+E12000007,London,2,Male,76,Aged 76 years,18751
+E12000007,London,2,Male,77,Aged 77 years,17045
+E12000007,London,2,Male,78,Aged 78 years,15764
+E12000007,London,2,Male,79,Aged 79 years,13561
+E12000007,London,2,Male,80,Aged 80 years,12981
+E12000007,London,2,Male,81,Aged 81 years,13264
+E12000007,London,2,Male,82,Aged 82 years,12280
+E12000007,London,2,Male,83,Aged 83 years,11113
+E12000007,London,2,Male,84,Aged 84 years,10214
+E12000007,London,2,Male,85,Aged 85 years,8912
+E12000007,London,2,Male,86,Aged 86 years,7819
+E12000007,London,2,Male,87,Aged 87 years,6863
+E12000007,London,2,Male,88,Aged 88 years,5916
+E12000007,London,2,Male,89,Aged 89 years,4938
+E12000007,London,2,Male,90,Aged 90 years and over,16238
+E12000008,South East,1,Female,0,Aged under 1 year,44565
+E12000008,South East,1,Female,1,Aged 1 year,46971
+E12000008,South East,1,Female,2,Aged 2 years,48703
+E12000008,South East,1,Female,3,Aged 3 years,49622
+E12000008,South East,1,Female,4,Aged 4 years,51313
+E12000008,South East,1,Female,5,Aged 5 years,52914
+E12000008,South East,1,Female,6,Aged 6 years,52107
+E12000008,South East,1,Female,7,Aged 7 years,52580
+E12000008,South East,1,Female,8,Aged 8 years,54996
+E12000008,South East,1,Female,9,Aged 9 years,56295
+E12000008,South East,1,Female,10,Aged 10 years,56215
+E12000008,South East,1,Female,11,Aged 11 years,55872
+E12000008,South East,1,Female,12,Aged 12 years,55362
+E12000008,South East,1,Female,13,Aged 13 years,55477
+E12000008,South East,1,Female,14,Aged 14 years,54072
+E12000008,South East,1,Female,15,Aged 15 years,51850
+E12000008,South East,1,Female,16,Aged 16 years,52328
+E12000008,South East,1,Female,17,Aged 17 years,51527
+E12000008,South East,1,Female,18,Aged 18 years,49187
+E12000008,South East,1,Female,19,Aged 19 years,48665
+E12000008,South East,1,Female,20,Aged 20 years,47907
+E12000008,South East,1,Female,21,Aged 21 years,49719
+E12000008,South East,1,Female,22,Aged 22 years,51943
+E12000008,South East,1,Female,23,Aged 23 years,52529
+E12000008,South East,1,Female,24,Aged 24 years,52102
+E12000008,South East,1,Female,25,Aged 25 years,52245
+E12000008,South East,1,Female,26,Aged 26 years,53562
+E12000008,South East,1,Female,27,Aged 27 years,55175
+E12000008,South East,1,Female,28,Aged 28 years,57085
+E12000008,South East,1,Female,29,Aged 29 years,58921
+E12000008,South East,1,Female,30,Aged 30 years,61653
+E12000008,South East,1,Female,31,Aged 31 years,61705
+E12000008,South East,1,Female,32,Aged 32 years,62830
+E12000008,South East,1,Female,33,Aged 33 years,63576
+E12000008,South East,1,Female,34,Aged 34 years,63051
+E12000008,South East,1,Female,35,Aged 35 years,63022
+E12000008,South East,1,Female,36,Aged 36 years,62601
+E12000008,South East,1,Female,37,Aged 37 years,62413
+E12000008,South East,1,Female,38,Aged 38 years,62591
+E12000008,South East,1,Female,39,Aged 39 years,63273
+E12000008,South East,1,Female,40,Aged 40 years,65505
+E12000008,South East,1,Female,41,Aged 41 years,64736
+E12000008,South East,1,Female,42,Aged 42 years,61518
+E12000008,South East,1,Female,43,Aged 43 years,58778
+E12000008,South East,1,Female,44,Aged 44 years,58939
+E12000008,South East,1,Female,45,Aged 45 years,59283
+E12000008,South East,1,Female,46,Aged 46 years,60889
+E12000008,South East,1,Female,47,Aged 47 years,61840
+E12000008,South East,1,Female,48,Aged 48 years,64148
+E12000008,South East,1,Female,49,Aged 49 years,66113
+E12000008,South East,1,Female,50,Aged 50 years,67375
+E12000008,South East,1,Female,51,Aged 51 years,64977
+E12000008,South East,1,Female,52,Aged 52 years,67088
+E12000008,South East,1,Female,53,Aged 53 years,67273
+E12000008,South East,1,Female,54,Aged 54 years,67756
+E12000008,South East,1,Female,55,Aged 55 years,67109
+E12000008,South East,1,Female,56,Aged 56 years,67273
+E12000008,South East,1,Female,57,Aged 57 years,65770
+E12000008,South East,1,Female,58,Aged 58 years,63811
+E12000008,South East,1,Female,59,Aged 59 years,61251
+E12000008,South East,1,Female,60,Aged 60 years,59078
+E12000008,South East,1,Female,61,Aged 61 years,56216
+E12000008,South East,1,Female,62,Aged 62 years,55678
+E12000008,South East,1,Female,63,Aged 63 years,53252
+E12000008,South East,1,Female,64,Aged 64 years,50972
+E12000008,South East,1,Female,65,Aged 65 years,48871
+E12000008,South East,1,Female,66,Aged 66 years,48625
+E12000008,South East,1,Female,67,Aged 67 years,47917
+E12000008,South East,1,Female,68,Aged 68 years,46833
+E12000008,South East,1,Female,69,Aged 69 years,46787
+E12000008,South East,1,Female,70,Aged 70 years,46630
+E12000008,South East,1,Female,71,Aged 71 years,48258
+E12000008,South East,1,Female,72,Aged 72 years,49756
+E12000008,South East,1,Female,73,Aged 73 years,54410
+E12000008,South East,1,Female,74,Aged 74 years,55066
+E12000008,South East,1,Female,75,Aged 75 years,41257
+E12000008,South East,1,Female,76,Aged 76 years,43197
+E12000008,South East,1,Female,77,Aged 77 years,39731
+E12000008,South East,1,Female,78,Aged 78 years,36985
+E12000008,South East,1,Female,79,Aged 79 years,31050
+E12000008,South East,1,Female,80,Aged 80 years,29111
+E12000008,South East,1,Female,81,Aged 81 years,30267
+E12000008,South East,1,Female,82,Aged 82 years,28710
+E12000008,South East,1,Female,83,Aged 83 years,26847
+E12000008,South East,1,Female,84,Aged 84 years,24655
+E12000008,South East,1,Female,85,Aged 85 years,22575
+E12000008,South East,1,Female,86,Aged 86 years,20709
+E12000008,South East,1,Female,87,Aged 87 years,18446
+E12000008,South East,1,Female,88,Aged 88 years,17039
+E12000008,South East,1,Female,89,Aged 89 years,15201
+E12000008,South East,1,Female,90,Aged 90 years and over,64743
+E12000008,South East,2,Male,0,Aged under 1 year,47141
+E12000008,South East,2,Male,1,Aged 1 year,49414
+E12000008,South East,2,Male,2,Aged 2 years,51439
+E12000008,South East,2,Male,3,Aged 3 years,52290
+E12000008,South East,2,Male,4,Aged 4 years,53843
+E12000008,South East,2,Male,5,Aged 5 years,55176
+E12000008,South East,2,Male,6,Aged 6 years,54683
+E12000008,South East,2,Male,7,Aged 7 years,55678
+E12000008,South East,2,Male,8,Aged 8 years,58412
+E12000008,South East,2,Male,9,Aged 9 years,59405
+E12000008,South East,2,Male,10,Aged 10 years,59541
+E12000008,South East,2,Male,11,Aged 11 years,58603
+E12000008,South East,2,Male,12,Aged 12 years,58695
+E12000008,South East,2,Male,13,Aged 13 years,58331
+E12000008,South East,2,Male,14,Aged 14 years,56825
+E12000008,South East,2,Male,15,Aged 15 years,55094
+E12000008,South East,2,Male,16,Aged 16 years,55183
+E12000008,South East,2,Male,17,Aged 17 years,55539
+E12000008,South East,2,Male,18,Aged 18 years,53152
+E12000008,South East,2,Male,19,Aged 19 years,51524
+E12000008,South East,2,Male,20,Aged 20 years,50415
+E12000008,South East,2,Male,21,Aged 21 years,52157
+E12000008,South East,2,Male,22,Aged 22 years,53700
+E12000008,South East,2,Male,23,Aged 23 years,53289
+E12000008,South East,2,Male,24,Aged 24 years,52708
+E12000008,South East,2,Male,25,Aged 25 years,52562
+E12000008,South East,2,Male,26,Aged 26 years,53257
+E12000008,South East,2,Male,27,Aged 27 years,53241
+E12000008,South East,2,Male,28,Aged 28 years,54198
+E12000008,South East,2,Male,29,Aged 29 years,55760
+E12000008,South East,2,Male,30,Aged 30 years,57528
+E12000008,South East,2,Male,31,Aged 31 years,57436
+E12000008,South East,2,Male,32,Aged 32 years,58218
+E12000008,South East,2,Male,33,Aged 33 years,59600
+E12000008,South East,2,Male,34,Aged 34 years,57968
+E12000008,South East,2,Male,35,Aged 35 years,58667
+E12000008,South East,2,Male,36,Aged 36 years,58488
+E12000008,South East,2,Male,37,Aged 37 years,58241
+E12000008,South East,2,Male,38,Aged 38 years,58999
+E12000008,South East,2,Male,39,Aged 39 years,59432
+E12000008,South East,2,Male,40,Aged 40 years,61547
+E12000008,South East,2,Male,41,Aged 41 years,61555
+E12000008,South East,2,Male,42,Aged 42 years,58885
+E12000008,South East,2,Male,43,Aged 43 years,56429
+E12000008,South East,2,Male,44,Aged 44 years,56494
+E12000008,South East,2,Male,45,Aged 45 years,57097
+E12000008,South East,2,Male,46,Aged 46 years,59068
+E12000008,South East,2,Male,47,Aged 47 years,59954
+E12000008,South East,2,Male,48,Aged 48 years,62473
+E12000008,South East,2,Male,49,Aged 49 years,63852
+E12000008,South East,2,Male,50,Aged 50 years,64700
+E12000008,South East,2,Male,51,Aged 51 years,63451
+E12000008,South East,2,Male,52,Aged 52 years,64340
+E12000008,South East,2,Male,53,Aged 53 years,64409
+E12000008,South East,2,Male,54,Aged 54 years,65732
+E12000008,South East,2,Male,55,Aged 55 years,65243
+E12000008,South East,2,Male,56,Aged 56 years,65398
+E12000008,South East,2,Male,57,Aged 57 years,63752
+E12000008,South East,2,Male,58,Aged 58 years,61834
+E12000008,South East,2,Male,59,Aged 59 years,59653
+E12000008,South East,2,Male,60,Aged 60 years,57796
+E12000008,South East,2,Male,61,Aged 61 years,54811
+E12000008,South East,2,Male,62,Aged 62 years,53717
+E12000008,South East,2,Male,63,Aged 63 years,51703
+E12000008,South East,2,Male,64,Aged 64 years,48932
+E12000008,South East,2,Male,65,Aged 65 years,47013
+E12000008,South East,2,Male,66,Aged 66 years,45574
+E12000008,South East,2,Male,67,Aged 67 years,44835
+E12000008,South East,2,Male,68,Aged 68 years,43456
+E12000008,South East,2,Male,69,Aged 69 years,42361
+E12000008,South East,2,Male,70,Aged 70 years,42086
+E12000008,South East,2,Male,71,Aged 71 years,43018
+E12000008,South East,2,Male,72,Aged 72 years,44306
+E12000008,South East,2,Male,73,Aged 73 years,49171
+E12000008,South East,2,Male,74,Aged 74 years,48849
+E12000008,South East,2,Male,75,Aged 75 years,36430
+E12000008,South East,2,Male,76,Aged 76 years,37877
+E12000008,South East,2,Male,77,Aged 77 years,34243
+E12000008,South East,2,Male,78,Aged 78 years,31032
+E12000008,South East,2,Male,79,Aged 79 years,25885
+E12000008,South East,2,Male,80,Aged 80 years,24058
+E12000008,South East,2,Male,81,Aged 81 years,24192
+E12000008,South East,2,Male,82,Aged 82 years,22260
+E12000008,South East,2,Male,83,Aged 83 years,20554
+E12000008,South East,2,Male,84,Aged 84 years,18719
+E12000008,South East,2,Male,85,Aged 85 years,16643
+E12000008,South East,2,Male,86,Aged 86 years,14543
+E12000008,South East,2,Male,87,Aged 87 years,12508
+E12000008,South East,2,Male,88,Aged 88 years,10819
+E12000008,South East,2,Male,89,Aged 89 years,9464
+E12000008,South East,2,Male,90,Aged 90 years and over,30687
+E12000009,South West,1,Female,0,Aged under 1 year,24953
+E12000009,South West,1,Female,1,Aged 1 year,25800
+E12000009,South West,1,Female,2,Aged 2 years,26890
+E12000009,South West,1,Female,3,Aged 3 years,27557
+E12000009,South West,1,Female,4,Aged 4 years,28374
+E12000009,South West,1,Female,5,Aged 5 years,29494
+E12000009,South West,1,Female,6,Aged 6 years,29629
+E12000009,South West,1,Female,7,Aged 7 years,29792
+E12000009,South West,1,Female,8,Aged 8 years,31018
+E12000009,South West,1,Female,9,Aged 9 years,31702
+E12000009,South West,1,Female,10,Aged 10 years,31696
+E12000009,South West,1,Female,11,Aged 11 years,31545
+E12000009,South West,1,Female,12,Aged 12 years,31228
+E12000009,South West,1,Female,13,Aged 13 years,31159
+E12000009,South West,1,Female,14,Aged 14 years,30750
+E12000009,South West,1,Female,15,Aged 15 years,29409
+E12000009,South West,1,Female,16,Aged 16 years,29805
+E12000009,South West,1,Female,17,Aged 17 years,29798
+E12000009,South West,1,Female,18,Aged 18 years,30999
+E12000009,South West,1,Female,19,Aged 19 years,32882
+E12000009,South West,1,Female,20,Aged 20 years,32865
+E12000009,South West,1,Female,21,Aged 21 years,32901
+E12000009,South West,1,Female,22,Aged 22 years,32935
+E12000009,South West,1,Female,23,Aged 23 years,32148
+E12000009,South West,1,Female,24,Aged 24 years,31880
+E12000009,South West,1,Female,25,Aged 25 years,31482
+E12000009,South West,1,Female,26,Aged 26 years,32866
+E12000009,South West,1,Female,27,Aged 27 years,33469
+E12000009,South West,1,Female,28,Aged 28 years,33986
+E12000009,South West,1,Female,29,Aged 29 years,34989
+E12000009,South West,1,Female,30,Aged 30 years,36228
+E12000009,South West,1,Female,31,Aged 31 years,36504
+E12000009,South West,1,Female,32,Aged 32 years,36551
+E12000009,South West,1,Female,33,Aged 33 years,37084
+E12000009,South West,1,Female,34,Aged 34 years,35900
+E12000009,South West,1,Female,35,Aged 35 years,35327
+E12000009,South West,1,Female,36,Aged 36 years,35471
+E12000009,South West,1,Female,37,Aged 37 years,34968
+E12000009,South West,1,Female,38,Aged 38 years,34507
+E12000009,South West,1,Female,39,Aged 39 years,34907
+E12000009,South West,1,Female,40,Aged 40 years,35877
+E12000009,South West,1,Female,41,Aged 41 years,35169
+E12000009,South West,1,Female,42,Aged 42 years,33471
+E12000009,South West,1,Female,43,Aged 43 years,31565
+E12000009,South West,1,Female,44,Aged 44 years,31641
+E12000009,South West,1,Female,45,Aged 45 years,32640
+E12000009,South West,1,Female,46,Aged 46 years,34149
+E12000009,South West,1,Female,47,Aged 47 years,35228
+E12000009,South West,1,Female,48,Aged 48 years,37101
+E12000009,South West,1,Female,49,Aged 49 years,39270
+E12000009,South West,1,Female,50,Aged 50 years,39932
+E12000009,South West,1,Female,51,Aged 51 years,39816
+E12000009,South West,1,Female,52,Aged 52 years,40504
+E12000009,South West,1,Female,53,Aged 53 years,40893
+E12000009,South West,1,Female,54,Aged 54 years,41896
+E12000009,South West,1,Female,55,Aged 55 years,42514
+E12000009,South West,1,Female,56,Aged 56 years,42419
+E12000009,South West,1,Female,57,Aged 57 years,41854
+E12000009,South West,1,Female,58,Aged 58 years,41203
+E12000009,South West,1,Female,59,Aged 59 years,39832
+E12000009,South West,1,Female,60,Aged 60 years,38899
+E12000009,South West,1,Female,61,Aged 61 years,37463
+E12000009,South West,1,Female,62,Aged 62 years,37167
+E12000009,South West,1,Female,63,Aged 63 years,36479
+E12000009,South West,1,Female,64,Aged 64 years,35024
+E12000009,South West,1,Female,65,Aged 65 years,33495
+E12000009,South West,1,Female,66,Aged 66 years,33591
+E12000009,South West,1,Female,67,Aged 67 years,34417
+E12000009,South West,1,Female,68,Aged 68 years,33208
+E12000009,South West,1,Female,69,Aged 69 years,33202
+E12000009,South West,1,Female,70,Aged 70 years,32884
+E12000009,South West,1,Female,71,Aged 71 years,34435
+E12000009,South West,1,Female,72,Aged 72 years,35093
+E12000009,South West,1,Female,73,Aged 73 years,38379
+E12000009,South West,1,Female,74,Aged 74 years,37924
+E12000009,South West,1,Female,75,Aged 75 years,29094
+E12000009,South West,1,Female,76,Aged 76 years,30677
+E12000009,South West,1,Female,77,Aged 77 years,28109
+E12000009,South West,1,Female,78,Aged 78 years,25809
+E12000009,South West,1,Female,79,Aged 79 years,22176
+E12000009,South West,1,Female,80,Aged 80 years,20409
+E12000009,South West,1,Female,81,Aged 81 years,20761
+E12000009,South West,1,Female,82,Aged 82 years,19573
+E12000009,South West,1,Female,83,Aged 83 years,18261
+E12000009,South West,1,Female,84,Aged 84 years,17056
+E12000009,South West,1,Female,85,Aged 85 years,15403
+E12000009,South West,1,Female,86,Aged 86 years,14268
+E12000009,South West,1,Female,87,Aged 87 years,12613
+E12000009,South West,1,Female,88,Aged 88 years,11723
+E12000009,South West,1,Female,89,Aged 89 years,10549
+E12000009,South West,1,Female,90,Aged 90 years and over,44990
+E12000009,South West,2,Male,0,Aged under 1 year,26045
+E12000009,South West,2,Male,1,Aged 1 year,27474
+E12000009,South West,2,Male,2,Aged 2 years,28530
+E12000009,South West,2,Male,3,Aged 3 years,29059
+E12000009,South West,2,Male,4,Aged 4 years,29764
+E12000009,South West,2,Male,5,Aged 5 years,31095
+E12000009,South West,2,Male,6,Aged 6 years,30514
+E12000009,South West,2,Male,7,Aged 7 years,31322
+E12000009,South West,2,Male,8,Aged 8 years,32900
+E12000009,South West,2,Male,9,Aged 9 years,33607
+E12000009,South West,2,Male,10,Aged 10 years,33327
+E12000009,South West,2,Male,11,Aged 11 years,32835
+E12000009,South West,2,Male,12,Aged 12 years,32450
+E12000009,South West,2,Male,13,Aged 13 years,32839
+E12000009,South West,2,Male,14,Aged 14 years,31797
+E12000009,South West,2,Male,15,Aged 15 years,30793
+E12000009,South West,2,Male,16,Aged 16 years,31118
+E12000009,South West,2,Male,17,Aged 17 years,31804
+E12000009,South West,2,Male,18,Aged 18 years,32503
+E12000009,South West,2,Male,19,Aged 19 years,34532
+E12000009,South West,2,Male,20,Aged 20 years,34361
+E12000009,South West,2,Male,21,Aged 21 years,34450
+E12000009,South West,2,Male,22,Aged 22 years,34502
+E12000009,South West,2,Male,23,Aged 23 years,33353
+E12000009,South West,2,Male,24,Aged 24 years,32805
+E12000009,South West,2,Male,25,Aged 25 years,32671
+E12000009,South West,2,Male,26,Aged 26 years,32563
+E12000009,South West,2,Male,27,Aged 27 years,33012
+E12000009,South West,2,Male,28,Aged 28 years,33198
+E12000009,South West,2,Male,29,Aged 29 years,33935
+E12000009,South West,2,Male,30,Aged 30 years,35080
+E12000009,South West,2,Male,31,Aged 31 years,34809
+E12000009,South West,2,Male,32,Aged 32 years,34647
+E12000009,South West,2,Male,33,Aged 33 years,35070
+E12000009,South West,2,Male,34,Aged 34 years,34068
+E12000009,South West,2,Male,35,Aged 35 years,34171
+E12000009,South West,2,Male,36,Aged 36 years,33644
+E12000009,South West,2,Male,37,Aged 37 years,33714
+E12000009,South West,2,Male,38,Aged 38 years,33376
+E12000009,South West,2,Male,39,Aged 39 years,33958
+E12000009,South West,2,Male,40,Aged 40 years,34380
+E12000009,South West,2,Male,41,Aged 41 years,34016
+E12000009,South West,2,Male,42,Aged 42 years,32473
+E12000009,South West,2,Male,43,Aged 43 years,30320
+E12000009,South West,2,Male,44,Aged 44 years,30559
+E12000009,South West,2,Male,45,Aged 45 years,31188
+E12000009,South West,2,Male,46,Aged 46 years,32447
+E12000009,South West,2,Male,47,Aged 47 years,34157
+E12000009,South West,2,Male,48,Aged 48 years,35798
+E12000009,South West,2,Male,49,Aged 49 years,37291
+E12000009,South West,2,Male,50,Aged 50 years,38050
+E12000009,South West,2,Male,51,Aged 51 years,37946
+E12000009,South West,2,Male,52,Aged 52 years,39033
+E12000009,South West,2,Male,53,Aged 53 years,39168
+E12000009,South West,2,Male,54,Aged 54 years,39978
+E12000009,South West,2,Male,55,Aged 55 years,40392
+E12000009,South West,2,Male,56,Aged 56 years,40670
+E12000009,South West,2,Male,57,Aged 57 years,40267
+E12000009,South West,2,Male,58,Aged 58 years,39122
+E12000009,South West,2,Male,59,Aged 59 years,38584
+E12000009,South West,2,Male,60,Aged 60 years,37599
+E12000009,South West,2,Male,61,Aged 61 years,35831
+E12000009,South West,2,Male,62,Aged 62 years,35572
+E12000009,South West,2,Male,63,Aged 63 years,34271
+E12000009,South West,2,Male,64,Aged 64 years,33299
+E12000009,South West,2,Male,65,Aged 65 years,31786
+E12000009,South West,2,Male,66,Aged 66 years,31281
+E12000009,South West,2,Male,67,Aged 67 years,31673
+E12000009,South West,2,Male,68,Aged 68 years,30580
+E12000009,South West,2,Male,69,Aged 69 years,30542
+E12000009,South West,2,Male,70,Aged 70 years,30506
+E12000009,South West,2,Male,71,Aged 71 years,31371
+E12000009,South West,2,Male,72,Aged 72 years,32153
+E12000009,South West,2,Male,73,Aged 73 years,35044
+E12000009,South West,2,Male,74,Aged 74 years,35113
+E12000009,South West,2,Male,75,Aged 75 years,26045
+E12000009,South West,2,Male,76,Aged 76 years,27747
+E12000009,South West,2,Male,77,Aged 77 years,24492
+E12000009,South West,2,Male,78,Aged 78 years,23226
+E12000009,South West,2,Male,79,Aged 79 years,18940
+E12000009,South West,2,Male,80,Aged 80 years,17170
+E12000009,South West,2,Male,81,Aged 81 years,17131
+E12000009,South West,2,Male,82,Aged 82 years,16004
+E12000009,South West,2,Male,83,Aged 83 years,14589
+E12000009,South West,2,Male,84,Aged 84 years,13362
+E12000009,South West,2,Male,85,Aged 85 years,11608
+E12000009,South West,2,Male,86,Aged 86 years,10333
+E12000009,South West,2,Male,87,Aged 87 years,8759
+E12000009,South West,2,Male,88,Aged 88 years,7705
+E12000009,South West,2,Male,89,Aged 89 years,6503
+E12000009,South West,2,Male,90,Aged 90 years and over,21873
+W92000004,Wales,1,Female,0,Aged under 1 year,13758
+W92000004,Wales,1,Female,1,Aged 1 year,14719
+W92000004,Wales,1,Female,2,Aged 2 years,15078
+W92000004,Wales,1,Female,3,Aged 3 years,15838
+W92000004,Wales,1,Female,4,Aged 4 years,16309
+W92000004,Wales,1,Female,5,Aged 5 years,16896
+W92000004,Wales,1,Female,6,Aged 6 years,16518
+W92000004,Wales,1,Female,7,Aged 7 years,16706
+W92000004,Wales,1,Female,8,Aged 8 years,17774
+W92000004,Wales,1,Female,9,Aged 9 years,18074
+W92000004,Wales,1,Female,10,Aged 10 years,17922
+W92000004,Wales,1,Female,11,Aged 11 years,18140
+W92000004,Wales,1,Female,12,Aged 12 years,17645
+W92000004,Wales,1,Female,13,Aged 13 years,18171
+W92000004,Wales,1,Female,14,Aged 14 years,17074
+W92000004,Wales,1,Female,15,Aged 15 years,16671
+W92000004,Wales,1,Female,16,Aged 16 years,16953
+W92000004,Wales,1,Female,17,Aged 17 years,16718
+W92000004,Wales,1,Female,18,Aged 18 years,16563
+W92000004,Wales,1,Female,19,Aged 19 years,18167
+W92000004,Wales,1,Female,20,Aged 20 years,17737
+W92000004,Wales,1,Female,21,Aged 21 years,18208
+W92000004,Wales,1,Female,22,Aged 22 years,18403
+W92000004,Wales,1,Female,23,Aged 23 years,18731
+W92000004,Wales,1,Female,24,Aged 24 years,18689
+W92000004,Wales,1,Female,25,Aged 25 years,17839
+W92000004,Wales,1,Female,26,Aged 26 years,18570
+W92000004,Wales,1,Female,27,Aged 27 years,18901
+W92000004,Wales,1,Female,28,Aged 28 years,19145
+W92000004,Wales,1,Female,29,Aged 29 years,20030
+W92000004,Wales,1,Female,30,Aged 30 years,20502
+W92000004,Wales,1,Female,31,Aged 31 years,19737
+W92000004,Wales,1,Female,32,Aged 32 years,20130
+W92000004,Wales,1,Female,33,Aged 33 years,20483
+W92000004,Wales,1,Female,34,Aged 34 years,19967
+W92000004,Wales,1,Female,35,Aged 35 years,19508
+W92000004,Wales,1,Female,36,Aged 36 years,19461
+W92000004,Wales,1,Female,37,Aged 37 years,18990
+W92000004,Wales,1,Female,38,Aged 38 years,18977
+W92000004,Wales,1,Female,39,Aged 39 years,18977
+W92000004,Wales,1,Female,40,Aged 40 years,19507
+W92000004,Wales,1,Female,41,Aged 41 years,18776
+W92000004,Wales,1,Female,42,Aged 42 years,17681
+W92000004,Wales,1,Female,43,Aged 43 years,16753
+W92000004,Wales,1,Female,44,Aged 44 years,16767
+W92000004,Wales,1,Female,45,Aged 45 years,17183
+W92000004,Wales,1,Female,46,Aged 46 years,17898
+W92000004,Wales,1,Female,47,Aged 47 years,18712
+W92000004,Wales,1,Female,48,Aged 48 years,20065
+W92000004,Wales,1,Female,49,Aged 49 years,21340
+W92000004,Wales,1,Female,50,Aged 50 years,21978
+W92000004,Wales,1,Female,51,Aged 51 years,21733
+W92000004,Wales,1,Female,52,Aged 52 years,22316
+W92000004,Wales,1,Female,53,Aged 53 years,22218
+W92000004,Wales,1,Female,54,Aged 54 years,22731
+W92000004,Wales,1,Female,55,Aged 55 years,22880
+W92000004,Wales,1,Female,56,Aged 56 years,23281
+W92000004,Wales,1,Female,57,Aged 57 years,23306
+W92000004,Wales,1,Female,58,Aged 58 years,22672
+W92000004,Wales,1,Female,59,Aged 59 years,21918
+W92000004,Wales,1,Female,60,Aged 60 years,21495
+W92000004,Wales,1,Female,61,Aged 61 years,20721
+W92000004,Wales,1,Female,62,Aged 62 years,20217
+W92000004,Wales,1,Female,63,Aged 63 years,20178
+W92000004,Wales,1,Female,64,Aged 64 years,19368
+W92000004,Wales,1,Female,65,Aged 65 years,18359
+W92000004,Wales,1,Female,66,Aged 66 years,18350
+W92000004,Wales,1,Female,67,Aged 67 years,18770
+W92000004,Wales,1,Female,68,Aged 68 years,18236
+W92000004,Wales,1,Female,69,Aged 69 years,17668
+W92000004,Wales,1,Female,70,Aged 70 years,18030
+W92000004,Wales,1,Female,71,Aged 71 years,17991
+W92000004,Wales,1,Female,72,Aged 72 years,18455
+W92000004,Wales,1,Female,73,Aged 73 years,19724
+W92000004,Wales,1,Female,74,Aged 74 years,19395
+W92000004,Wales,1,Female,75,Aged 75 years,14807
+W92000004,Wales,1,Female,76,Aged 76 years,15603
+W92000004,Wales,1,Female,77,Aged 77 years,13989
+W92000004,Wales,1,Female,78,Aged 78 years,13632
+W92000004,Wales,1,Female,79,Aged 79 years,11809
+W92000004,Wales,1,Female,80,Aged 80 years,11034
+W92000004,Wales,1,Female,81,Aged 81 years,10397
+W92000004,Wales,1,Female,82,Aged 82 years,9982
+W92000004,Wales,1,Female,83,Aged 83 years,9330
+W92000004,Wales,1,Female,84,Aged 84 years,8752
+W92000004,Wales,1,Female,85,Aged 85 years,7791
+W92000004,Wales,1,Female,86,Aged 86 years,7009
+W92000004,Wales,1,Female,87,Aged 87 years,6163
+W92000004,Wales,1,Female,88,Aged 88 years,5668
+W92000004,Wales,1,Female,89,Aged 89 years,4973
+W92000004,Wales,1,Female,90,Aged 90 years and over,20199
+W92000004,Wales,2,Male,0,Aged under 1 year,14578
+W92000004,Wales,2,Male,1,Aged 1 year,15109
+W92000004,Wales,2,Male,2,Aged 2 years,16080
+W92000004,Wales,2,Male,3,Aged 3 years,16568
+W92000004,Wales,2,Male,4,Aged 4 years,17047
+W92000004,Wales,2,Male,5,Aged 5 years,17550
+W92000004,Wales,2,Male,6,Aged 6 years,17567
+W92000004,Wales,2,Male,7,Aged 7 years,17674
+W92000004,Wales,2,Male,8,Aged 8 years,18428
+W92000004,Wales,2,Male,9,Aged 9 years,18739
+W92000004,Wales,2,Male,10,Aged 10 years,19126
+W92000004,Wales,2,Male,11,Aged 11 years,18634
+W92000004,Wales,2,Male,12,Aged 12 years,19140
+W92000004,Wales,2,Male,13,Aged 13 years,18607
+W92000004,Wales,2,Male,14,Aged 14 years,18243
+W92000004,Wales,2,Male,15,Aged 15 years,17694
+W92000004,Wales,2,Male,16,Aged 16 years,18298
+W92000004,Wales,2,Male,17,Aged 17 years,17566
+W92000004,Wales,2,Male,18,Aged 18 years,18021
+W92000004,Wales,2,Male,19,Aged 19 years,19119
+W92000004,Wales,2,Male,20,Aged 20 years,19181
+W92000004,Wales,2,Male,21,Aged 21 years,19594
+W92000004,Wales,2,Male,22,Aged 22 years,19450
+W92000004,Wales,2,Male,23,Aged 23 years,18678
+W92000004,Wales,2,Male,24,Aged 24 years,19006
+W92000004,Wales,2,Male,25,Aged 25 years,18204
+W92000004,Wales,2,Male,26,Aged 26 years,18105
+W92000004,Wales,2,Male,27,Aged 27 years,18337
+W92000004,Wales,2,Male,28,Aged 28 years,18525
+W92000004,Wales,2,Male,29,Aged 29 years,18804
+W92000004,Wales,2,Male,30,Aged 30 years,19533
+W92000004,Wales,2,Male,31,Aged 31 years,18910
+W92000004,Wales,2,Male,32,Aged 32 years,19112
+W92000004,Wales,2,Male,33,Aged 33 years,18858
+W92000004,Wales,2,Male,34,Aged 34 years,18983
+W92000004,Wales,2,Male,35,Aged 35 years,18432
+W92000004,Wales,2,Male,36,Aged 36 years,18394
+W92000004,Wales,2,Male,37,Aged 37 years,17847
+W92000004,Wales,2,Male,38,Aged 38 years,17885
+W92000004,Wales,2,Male,39,Aged 39 years,17760
+W92000004,Wales,2,Male,40,Aged 40 years,18260
+W92000004,Wales,2,Male,41,Aged 41 years,18386
+W92000004,Wales,2,Male,42,Aged 42 years,16929
+W92000004,Wales,2,Male,43,Aged 43 years,15932
+W92000004,Wales,2,Male,44,Aged 44 years,16361
+W92000004,Wales,2,Male,45,Aged 45 years,16533
+W92000004,Wales,2,Male,46,Aged 46 years,17371
+W92000004,Wales,2,Male,47,Aged 47 years,17613
+W92000004,Wales,2,Male,48,Aged 48 years,18929
+W92000004,Wales,2,Male,49,Aged 49 years,20434
+W92000004,Wales,2,Male,50,Aged 50 years,20803
+W92000004,Wales,2,Male,51,Aged 51 years,20519
+W92000004,Wales,2,Male,52,Aged 52 years,21271
+W92000004,Wales,2,Male,53,Aged 53 years,20767
+W92000004,Wales,2,Male,54,Aged 54 years,21344
+W92000004,Wales,2,Male,55,Aged 55 years,21776
+W92000004,Wales,2,Male,56,Aged 56 years,22366
+W92000004,Wales,2,Male,57,Aged 57 years,21857
+W92000004,Wales,2,Male,58,Aged 58 years,21572
+W92000004,Wales,2,Male,59,Aged 59 years,21044
+W92000004,Wales,2,Male,60,Aged 60 years,20516
+W92000004,Wales,2,Male,61,Aged 61 years,19851
+W92000004,Wales,2,Male,62,Aged 62 years,19723
+W92000004,Wales,2,Male,63,Aged 63 years,19156
+W92000004,Wales,2,Male,64,Aged 64 years,18378
+W92000004,Wales,2,Male,65,Aged 65 years,17314
+W92000004,Wales,2,Male,66,Aged 66 years,17329
+W92000004,Wales,2,Male,67,Aged 67 years,17669
+W92000004,Wales,2,Male,68,Aged 68 years,17181
+W92000004,Wales,2,Male,69,Aged 69 years,16765
+W92000004,Wales,2,Male,70,Aged 70 years,16802
+W92000004,Wales,2,Male,71,Aged 71 years,17379
+W92000004,Wales,2,Male,72,Aged 72 years,17356
+W92000004,Wales,2,Male,73,Aged 73 years,18531
+W92000004,Wales,2,Male,74,Aged 74 years,17675
+W92000004,Wales,2,Male,75,Aged 75 years,13381
+W92000004,Wales,2,Male,76,Aged 76 years,13885
+W92000004,Wales,2,Male,77,Aged 77 years,12718
+W92000004,Wales,2,Male,78,Aged 78 years,11715
+W92000004,Wales,2,Male,79,Aged 79 years,9956
+W92000004,Wales,2,Male,80,Aged 80 years,9125
+W92000004,Wales,2,Male,81,Aged 81 years,8681
+W92000004,Wales,2,Male,82,Aged 82 years,7958
+W92000004,Wales,2,Male,83,Aged 83 years,7259
+W92000004,Wales,2,Male,84,Aged 84 years,6476
+W92000004,Wales,2,Male,85,Aged 85 years,5653
+W92000004,Wales,2,Male,86,Aged 86 years,5027
+W92000004,Wales,2,Male,87,Aged 87 years,4102
+W92000004,Wales,2,Male,88,Aged 88 years,3569
+W92000004,Wales,2,Male,89,Aged 89 years,2904
+W92000004,Wales,2,Male,90,Aged 90 years and over,9518
