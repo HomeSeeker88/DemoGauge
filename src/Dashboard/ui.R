@@ -19,7 +19,10 @@ shinyUI(
                                                 menuItem("Model", tabName = "modelTab", icon = icon("book")))),
         body <- dashboardBody(tabItems(
             tabItem(tabName = "popTab", h2("Statystyki demograficzne kraju"),
-                    fluidRow())
+                    fluidRow(selectizeInput("inputCountry", label = "Wybierz kraj", choices = (list.dirs(path = "D:/moje rzeczy/DemoGauge/Data/", full.names = F, recursive = T)), selected = "Germany"),
+                             actionButton("confirmButton", "Potwierdź"),
+                             plotOutput("age_pyramid")))
+            
         ))
     )
 )
