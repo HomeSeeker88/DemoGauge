@@ -5,3 +5,4 @@ TODO:
 - interaktywna mapa (do przeliczania statystyk dla pojedynczego województwa, landu, obwodu itp.)
 - Dane dot. imigracji, wieku, pochodzenia
 - Model (?), dotyczący jesio nie wiem czego
+- Fork i test PR
